@@ -62,11 +62,18 @@ for i, arg in enumerate(sys.argv[1:], start=1):
 
 sys.argv = [sys.argv[0]] + clean_argv
 
-# 1. Determine Edu Project Directory (Cross-Platform)
+# 1. Determine Edu Project Directory (Cross-Platform & Docker Container aware)
 candidate_dirs = [
     edu_dir_arg,
     os.environ.get("EDU_DIR"),
     os.getcwd(),
+    os.path.join(os.getcwd(), "edu"),
+    "/code/edu",
+    "/code",
+    "/app/edu",
+    "/app",
+    os.path.abspath(os.path.join(COURSE_ROOT, "..")),
+    os.path.abspath(os.path.join(COURSE_ROOT, "..", "..")),
     os.path.expanduser("~/smartLearning/worku-lms/edu"),
     os.path.expanduser("~/worku-lms/edu"),
     os.path.expanduser("~/edu"),
