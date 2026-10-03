@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Event-Driven Architecture, The Browser Event Loop & Event Delegation",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "4.9 The Browser Concurrency Model: Call Stack, Web APIs, Microtasks & Macrotasks",
+    "4.10 W3C Event Flow Architecture: Capturing, Target & Bubbling Phases",
+    "4.11 addEventListener Configuration, Propagation Controls & Default Actions",
+    "4.12 The Event Delegation Pattern & Accessible Production-Grade Form Validation"
+  ],
+  "media": {
+    "event-loop-propagation-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/js_event_loop_bubbling_delegation_pipeline.jpg",
+      "alt": "Event Loop Task Queues and W3C DOM Event Propagation Pipeline"
+    },
+    "event-loop-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+      "note": "Philip Roberts: What the heck is the event loop anyway? | JSConf EU"
+    }
+  }
+}

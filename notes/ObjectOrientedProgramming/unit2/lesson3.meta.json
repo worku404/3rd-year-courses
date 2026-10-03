@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Strings, Array Memory Layout & Standard Library Utilities",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "oop/unit2/lesson3",
+  "curriculumSections": [
+    "2.9 String Immutability, Compact Strings & String Constant Pool (SCP)",
+    "2.10 StringBuilder Buffer Allocation vs Loop Concatenation Heap Churn",
+    "2.11 Array Memory Architecture: Contiguous Heap Buffers & CPU Cache Locality",
+    "2.12 Multidimensional Jagged Arrays & Row-Major Cache Efficiency",
+    "2.13 Standard Library Utilities: Native System.arraycopy, Arrays & Math"
+  ],
+  "media": {
+    "memory-layout-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/string_pool_array_memory_layout.jpg",
+      "alt": "Memory Architecture: String Pool & Array Contiguity"
+    },
+    "memory-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=_GK3WoFFKUE",
+      "note": "Telusko: Stack and Heap Memory in Java"
+    }
+  }
+}

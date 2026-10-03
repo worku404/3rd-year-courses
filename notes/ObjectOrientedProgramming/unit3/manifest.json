@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 3,
+  "moduleTitle": "Unit 3 \u2014 Classes, Objects, Methods & Constructors",
+  "moduleDescription": "Deep dive into class specifications, runtime object instantiation, memory lifecycles, encapsulation boundaries, constructor chaining, static vs virtual method dispatch, and modular packages.",
+  "moduleOrder": 3,
+  "pdf": "OOPunits/oop_unit3.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

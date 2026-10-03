@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Systematic Use Case Discovery: User Goal, Event Decomposition & CRUD Matrix Verification",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Discovery Methodology 1: The User Goal Technique (Stakeholder Tier Decomposition and Goal Synthesis)",
+    "3.2 Discovery Methodology 2: The Event Decomposition Technique (External, Temporal & State Event Taxonomies)",
+    "3.3 The Perfect Technology Assumption in Event-Driven Systems Analysis",
+    "3.4 Discovery Methodology 3: The CRUD-to-Use-Case Cross-Verification Matrix (Preventing Lifecycle Gaps)",
+    "3.5 Synthesizing Enterprise Use Case Catalogs: Traceability from Events to Architecture Components",
+    "3.6 Interactive Event Decomposition & CRUD Lifecycle Coverage Engine in C++"
+  ],
+  "media": {
+    "sam-use-case-discovery-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_use_case_discovery_techniques_matrix.jpg",
+      "alt": "Systematic Use Case Discovery: User Goal, Event Decomposition, and CRUD Matrix Pipeline"
+    },
+    "agile-elicitation-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=9TycLR0TqFA",
+      "note": "Simplilearn: Agile & Collaborative Cross-Functional Requirements Workshops"
+    }
+  }
+}

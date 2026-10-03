@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Logic Modeling: Decision Trees, 2^N Complete Decision Tables & Structured English",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Process Specifications (P-Specs): Mathematical Rigor for DFD Functional Primitives",
+    "3.2 Decision Trees: Branching Topologies, Sequential Evaluation & Cognitive Readability",
+    "3.3 Decision Tables: Four-Quadrant Architecture (Condition Stub, Action Stub, Entries) & 2^N Completeness Proofs",
+    "3.4 Decision Table Optimization: Eliminating Redundancy via 'Don't Care' (-) Wildcards and Detecting Contradictions",
+    "3.5 Structured English: Algorithmic Vocabulary, Relational Action Primitives, and Code Synthesis",
+    "3.6 Interactive Decision Table Reducer & Structured English Compiler in C++"
+  ],
+  "media": {
+    "sam-decision-logic-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_decision_logic_trees_tables_structured_english.jpg",
+      "alt": "Logic Modeling Architecture: Decision Trees, Decision Tables, and Structured English Translation"
+    },
+    "sdlc-logic-process-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=i-QyW8D3ei0",
+      "note": "Simplilearn: Software Development Lifecycle & Business Logic Architecture"
+    }
+  }
+}

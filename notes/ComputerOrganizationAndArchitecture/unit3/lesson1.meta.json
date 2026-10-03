@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 The Machine Instruction Cycle & State Transition Mechanics",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "3.1 Two-Step Instruction Cycle: Fetch and Execute Mechanics",
+    "3.2 The Expanded Instruction Cycle State Transition Diagram (IAC, IF, IOD, OAC, OF, DO, OS)",
+    "3.3 The Four Machine Instruction Categories (Processor-Memory, Processor-I/O, Data Processing, Control)",
+    "3.4 Register Transfer Language (RTL) Micro-operations Across Arithmetic & Memory Pipelines"
+  ],
+  "media": {
+    "coa-inst-cycle-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_instruction_cycle_state_machine.jpg",
+      "alt": "Machine Instruction Cycle State Machine and Register Transfer Language"
+    },
+    "instructions-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=zltgXvg6r3k",
+      "note": "Crash Course Computer Science #8: Instructions & Programs"
+    }
+  }
+}

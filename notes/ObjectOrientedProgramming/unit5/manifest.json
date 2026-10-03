@@ -1,0 +1,13 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 5,
+  "moduleTitle": "Unit 5 \u2014 Polymorphism, Dynamic Binding & Type Systems",
+  "moduleDescription": "Advanced examination of dynamic binding, polymorphic dispatch, heterogeneous collections, the Open-Closed Principle, type casting, modern pattern matching, and array covariance.",
+  "moduleOrder": 5,
+  "pdf": "OOPunits/oop_unit5.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2"
+  ]
+}

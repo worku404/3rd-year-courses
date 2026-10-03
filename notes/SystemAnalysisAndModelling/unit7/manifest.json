@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 7,
+  "moduleTitle": "Unit 7 \u2014 Object-Oriented Behavioral Modeling & Dynamic UML Design",
+  "moduleDescription": "Rigorous university-standard examination of UML 2.5 behavioral and interaction modeling: Sequence Diagrams (Lifelines, Execution Specifications/Activation bars, Synchronous Calls, Asynchronous Signals, Reply Messages, and Combined Fragments: alt, opt, loop, par, critical, break), Harel Statecharts (Finite State Automata, Mealy/Moore machines, State compartments, Entry/Exit/Do internal behaviors, Guarded transitions, Choice/Junction pseudostates, Composite States with Orthogonal AND-concurrency regions, and Shallow/Deep History H/H* pseudostates), Activity Diagrams (Petri net token flow semantics, Action nodes, Control and Object flows, Pins, Decision/Merge diamonds, Fork/Join concurrency synchronization bars, Flow Final vs. Activity Final nodes, and Multi-domain Swimlane partitions), and Communication (Collaboration) Diagrams (Object roles, Association links, and Hierarchical nested sequence numbering).",
+  "moduleOrder": 7,
+  "pdf": "SAMunits/sam_unit7.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

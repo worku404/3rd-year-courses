@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "title": "Software Engineering",
+    "slug": "software-engineering"
+  },
+  "course": {
+    "title": "Internet Programming",
+    "slug": "internet-programming",
+    "overview": "Comprehensive 3rd-Year University course covering Internet & Web Architectures, TCP/IP & Application Protocols, HTTP/1.1 to HTTP/3 Message Lifecycles, Semantic HTML5 Engineering, Advanced CSS3 Layout Engines (Flexbox, CSS Grid), Client-Side JavaScript Runtime Internals (Execution Contexts, Closures, Event Loop, DOM Tree Manipulation), and Secure Full-Stack Web Development."
+  }
+}

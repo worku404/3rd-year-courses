@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "title": "Software Engineering",
+    "slug": "software-engineering"
+  },
+  "course": {
+    "title": "Object-Oriented Programming (Java)",
+    "slug": "object-oriented-programming-java",
+    "overview": "Comprehensive 3rd-Year University course covering Object-Oriented Analysis and Design (OOAD), Programming Paradigms, Java Virtual Machine (JVM) internals, Encapsulation, Inheritance, Polymorphism, Robust Exception Architecture, and Event-Driven GUI Engineering in Java."
+  }
+}

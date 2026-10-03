@@ -1,0 +1,24 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Class Anatomy, Object Instantiation & Memory Lifecycle",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit3/lesson1",
+  "curriculumSections": [
+    "3.1 Class Specification vs Runtime Heap Object Instantiation",
+    "3.2 Bytecode Mechanics of Object Allocation (new, dup, invokespecial)",
+    "3.3 Variable Scopes: Local, Instance, and Static Variable Lifecycles",
+    "3.4 The Canonical Principle: Java is Strictly Pass-by-Value"
+  ],
+  "media": {
+    "class-anatomy-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/class_anatomy_memory_lifecycle.jpg",
+      "alt": "Class Blueprint, Object Instantiation and Heap/Stack Lifecycle"
+    },
+    "class-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Znmz_WxMxp4",
+      "note": "Telusko: Class and Object Theory in Java"
+    }
+  }
+}

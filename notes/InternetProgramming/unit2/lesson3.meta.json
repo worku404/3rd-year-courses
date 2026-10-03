@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Web Form Engineering, Constraint Validation & Semantic Accessibility (WAI-ARIA)",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "2.9 Web Form Architecture, Encodings & Control Grouping",
+    "2.10 Form Input Controls, Datalists & Modern Controls",
+    "2.11 Client-Side Constraint Validation State Machine",
+    "2.12 Semantic Page Landmarks & WAI-ARIA Screen Reader Architecture"
+  ],
+  "media": {
+    "form-aria-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/web_form_validation_wai_aria_architecture.jpg",
+      "alt": "Web Form Submission Encodings, Constraint Validation State Machine and WAI-ARIA Landmarks"
+    },
+    "forms-validation-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fNcJuPIZ2WE",
+      "note": "Web Dev Simplified: Learn HTML Forms In 25 Minutes & Form Validation"
+    }
+  }
+}

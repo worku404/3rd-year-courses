@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Visual Formatting Model, Positioning Schemes & Stacking Contexts",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "3.5 Normal Flow & Display Topologies (block, inline, inline-block)",
+    "3.6 Positioning Schemes (static, relative, absolute, fixed, sticky)",
+    "3.7 The 3D Stacking Context & Z-Index Layering Hierarchy",
+    "3.8 Hardware-Accelerated Transforms, Clipping & Media Fitting"
+  ],
+  "media": {
+    "position-stacking-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/css_positioning_schemes_stacking_contexts.jpg",
+      "alt": "CSS Positioning Schemes and 3D Stacking Context Layering Tree"
+    },
+    "position-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=jx5jmI0UlXU",
+      "note": "Web Dev Simplified: Learn CSS Position In 9 Minutes"
+    }
+  }
+}

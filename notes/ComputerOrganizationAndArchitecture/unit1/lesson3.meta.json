@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 CPU Internal Microarchitecture, Registers & The Execution Engine",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "1.9 CPU Internal Anatomy: Control Unit (CU), Arithmetic Logic Unit (ALU) & Internal Bus",
+    "1.10 Register Typology: User-Visible Registers (GPRs, Flags) vs. Control/Status Registers",
+    "1.11 Memory Interface Registers: MAR, MBR/MDR & The Address/Data Bus Boundary",
+    "1.12 Register Transfer Language (RTL) & Micro-operations of the Fetch-Decode-Execute Cycle"
+  ],
+  "media": {
+    "coa-cpu-datapath-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_cpu_microarchitecture_registers_datapath.jpg",
+      "alt": "CPU Internal Microarchitecture, Registers and Execution Datapath"
+    },
+    "cpu-works-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=cNN_tTXABUA",
+      "note": "In One Lesson: How a CPU Works"
+    }
+  }
+}

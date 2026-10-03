@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Fundamental Search Algorithms: Linear vs. Binary Search & Midpoint Overflow",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit2/lesson1",
+  "curriculumSections": [
+    "2.1 The Search Problem: Unordered vs. Ordered Collection Lookup Dynamics",
+    "2.2 Linear Search Mechanics: Sentinel Optimizations & Average-Case Probability Analysis",
+    "2.3 Binary Search Architecture: Halving Spaces, Invariants, and Iterative vs. Recursive Models",
+    "2.4 The Historic Midpoint Overflow Bug: Integer Arithmetic Invariants in Modern Systems",
+    "2.5 Trade-Off Matrix: Pre-sorting Overhead vs. Amortized Query Frequency"
+  ],
+  "media": {
+    "search-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_search_linear_vs_binary_overflow.jpg",
+      "alt": "Linear vs Binary Search and the Historic Midpoint Integer Overflow Bug"
+    },
+    "search-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=C2apEw9pgtw",
+      "note": "Abdul Bari: Binary Search Iterative Method"
+    }
+  }
+}

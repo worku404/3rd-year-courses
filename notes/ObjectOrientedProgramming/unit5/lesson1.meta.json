@@ -1,0 +1,24 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Late Binding, Dynamic Dispatch & Heterogeneous Collections",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit5/lesson1",
+  "curriculumSections": [
+    "5.1 Early Binding (Static) vs Late Binding (Dynamic)",
+    "5.2 Reference Types vs Runtime Object Types",
+    "5.3 Processing Heterogeneous Collections Uniformly",
+    "5.4 The Open-Closed Principle (OCP) in System Architecture"
+  ],
+  "media": {
+    "binding-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/dynamic_binding_heterogeneous_collections.jpg",
+      "alt": "Dynamic Binding and Heterogeneous Collection Architecture"
+    },
+    "binding-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=6U-0aUBiO5A",
+      "note": "Telusko: Polymorphism in Java"
+    }
+  }
+}

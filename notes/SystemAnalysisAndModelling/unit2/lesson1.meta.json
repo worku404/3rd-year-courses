@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Project Identification, Strategic Selection & Portfolio Prioritization",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "2.1 Sources of Project Requests: Top-Down (Executive/Steering Committee) vs. Bottom-Up (Operational)",
+    "2.2 Strategic Organizational Alignment & Porter's Value Chain Analysis in IT Inception",
+    "2.3 Project Classification, Evaluation Criteria & Weighted Multi-Criteria Scoring Models",
+    "2.4 The Project Baseline Charter: Scope Definition, Deliverables & Operational Constraints"
+  ],
+  "media": {
+    "sam-project-selection-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_project_identification_selection_matrix.jpg",
+      "alt": "Project Identification Sources, Weighted Multi-Criteria Scoring Matrix, and Selection Funnel"
+    },
+    "software-engineering-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=O753uuutqH8",
+      "note": "Crash Course Computer Science #16: Software Engineering"
+    }
+  }
+}

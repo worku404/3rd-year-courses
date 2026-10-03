@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Formal Asymptotic Notations (Big-O, Omega, Theta) & Space-Time Trade-offs",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit1/lesson3",
+  "curriculumSections": [
+    "1.11 Formal Mathematical Definitions of Asymptotic Envelopes: Big-O, Big-Omega, and Big-Theta",
+    "1.12 Debunking the Great Fallacy: Distinguishing Between Scenarios (Best/Worst/Average) and Bounds (O/Omega/Theta)",
+    "1.13 Asymptotic Simplification Rules: Dominant Terms, Transitivity, and Sum/Product Rules",
+    "1.14 Auxiliary Space Complexity & Recursion Stack Memory Analysis",
+    "1.15 The Space-Time Trade-Off Principle in Distributed Software Engineering"
+  ],
+  "media": {
+    "bounds-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_asymptotic_notations_bounds.jpg",
+      "alt": "Formal Asymptotic Notations and Boundary Envelopes"
+    },
+    "bounds-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Nd0XDY-jVHs",
+      "note": "Abdul Bari: Asymptotic Notations Big Oh - Omega - Theta"
+    }
+  }
+}

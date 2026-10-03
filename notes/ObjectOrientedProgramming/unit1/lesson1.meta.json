@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Programming Paradigms & The Software Evolution",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit1/lesson1",
+  "curriculumSections": [
+    "1.1 Program Development & Problem Solving",
+    "1.2 Programming Paradigms (Imperative vs OOP)",
+    "1.3 The Software Crisis & Architectural Coupling"
+  ],
+  "media": {
+    "paradigms-architecture-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/procedural_vs_oop_architecture.jpg",
+      "alt": "Architectural comparison of Procedural vs Object-Oriented programming paradigms"
+    },
+    "paradigms-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+      "note": "Programming with Mosh: Java Tutorial & Object-Oriented Programming Foundations"
+    }
+  }
+}

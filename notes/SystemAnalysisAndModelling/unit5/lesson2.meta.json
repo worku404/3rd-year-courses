@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Use Case Modeling, System Boundary Specification & Advanced Stereotypes",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 The Use Case Paradigm: Scoping Functional Dialogue Between External Actors and System Boundaries",
+    "2.2 Actor Taxonomies: Primary ('Who Knocks?') vs. Secondary Supporting Actors (Humans, Hardware, Subsystems)",
+    "2.3 Formal Cockburn Use Case Specification Anatomy: Preconditions, Postconditions, and Alternate Extension Flows",
+    "2.4 Stereotype Semantics: <<include>> Mandatory Subroutines vs. <<extend>> Conditional Extension Points",
+    "2.5 Use Case Generalization and Common Anti-Patterns (Functional Decomposition Pitfalls & Inverted Arrows)",
+    "2.6 Use Case Graph Dependency & Extension-Point Cycle Verifier in C++"
+  ],
+  "media": {
+    "sam-use-case-boundary-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_use_case_relationships_and_boundary.jpg",
+      "alt": "Use Case Diagram Architecture: Boundary, Actors, <<include>>, <<extend>>, and Generalization"
+    },
+    "system-design-usecase-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=m8Icp_Cid5o",
+      "note": "freeCodeCamp: System Design & Functional Use Case Scoping"
+    }
+  }
+}

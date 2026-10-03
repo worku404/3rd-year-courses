@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "internet-programming",
+  "unit": 2,
+  "moduleTitle": "Unit 2 \u2014 Web Development Using HTML & Semantic Web Engineering",
+  "moduleDescription": "Document architecture, DOM tree parsing, text semantics, accessible tabular data structures, hypermedia security, responsive images, HTML5 video/audio pipelines, form engineering, constraint validation, and WAI-ARIA accessibility landmarks.",
+  "moduleOrder": 2,
+  "pdf": "IPunits/ip_unit2.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

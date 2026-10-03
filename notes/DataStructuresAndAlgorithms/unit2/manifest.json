@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 2,
+  "moduleTitle": "Unit 2 \u2014 Simple Sorting and Searching Algorithms",
+  "moduleDescription": "Mastering fundamental searching and elementary sorting algorithms: Linear Search, Binary Search halving dynamics, the 32-bit midpoint integer overflow bug, Exchange Sort (Bubble Sort), Selection Sort write minimization, Algorithmic Stability, Inversion Count Theory, and Adaptive Insertion Sort.",
+  "moduleOrder": 2,
+  "pdf": "DSAunits/dsa_unit2.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

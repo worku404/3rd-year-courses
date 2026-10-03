@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 3,
+  "moduleTitle": "Unit 3 \u2014 System Requirements Engineering, Elicitation Techniques & Analysis Paradigms",
+  "moduleDescription": "Rigorous investigation of software requirements engineering, formal requirements classification (Business, User, and System Requirements under IEEE 830 / ISO/IEC/IEEE 29148), Functional vs. Non-Functional Requirements (ISO/IEC 25010 Quality Model, SLA/SLO quantification, and domain constraints), fact-finding and elicitation methodologies (Structured/Unstructured Interviews, Questionnaires, Joint Application Development [JAD], Observation, Archival Document Audits), and a comparative architectural evaluation of Structured Analysis (DFDs, Data Dictionaries, Decision Tables) versus Object-Oriented Analysis (UML 2.5, Use Cases, Domain Class Modeling).",
+  "moduleOrder": 3,
+  "pdf": "SAMunits/sam_unit3.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

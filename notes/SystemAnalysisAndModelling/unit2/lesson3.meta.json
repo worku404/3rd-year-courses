@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 SDLC Phase Transitions: From Logical Architecture to Physical Implementation & Cutover",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "2.9 The Analysis Phase: Problem Formulation, Current Workflow Audit & Control Requirements",
+    "2.10 The Design Phase Duality: Technology-Independent Logical Design vs. Technology-Dependent Physical Design",
+    "2.11 Implementation, Data Migration & The Four Cutover Strategies: Direct, Parallel, Pilot & Phased",
+    "2.12 Post-Implementation Audits & The Software Maintenance Taxonomy: Corrective, Adaptive, Perfective & Preventive"
+  ],
+  "media": {
+    "sam-cutover-strategies-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_sdlc_logical_physical_cutover_strategies.jpg",
+      "alt": "Logical vs Physical Design Duality and The Four Cutover Strategies"
+    },
+    "sdlc-process-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=i-QyW8D3ei0",
+      "note": "Simplilearn: Software Development Lifecycle in 9 Minutes"
+    }
+  }
+}

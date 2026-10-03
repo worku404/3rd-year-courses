@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Shell Sort Gap Mathematics & Merge Sort Stable Divide-and-Conquer",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit8/lesson1",
+  "curriculumSections": [
+    "8.1 Shell Sort: Diminishing Increment Algorithm (Donald Shell 1959)",
+    "8.2 Gap Sequence Analysis: Shell O(n^2), Knuth O(n^1.5), Sedgewick O(n^(4/3)), Ciura Empirical",
+    "8.3 Merge Sort: Recursive Divide-and-Conquer & Master Theorem T(n)=2T(n/2)+O(n)",
+    "8.4 The Stable Merge Routine & O(n) Auxiliary Buffer Mechanics",
+    "8.5 External Sorting: Polyphase Merge, K-way Merge & Modern TimSort Hybrid"
+  ],
+  "media": {
+    "merge-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_shell_merge_sort_gap_divide_conquer.jpg",
+      "alt": "Shell Sort Diminishing Gap Sequences and Merge Sort Divide-and-Conquer Recursion Tree"
+    },
+    "merge-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=ZOTO3zT6mHI",
+      "note": "Jenny's Lectures CS IT: Merge Sort in DSA | Theory, Code & Complexity Analysis"
+    }
+  }
+}

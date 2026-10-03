@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Quantitative Processor Performance Metrics, CPI & The Iron Law of Computing",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.5 Response Time vs. Throughput & Processor Clock Frequency Mechanics",
+    "2.6 The Iron Law of Processor Performance (Instruction Count, CPI & Clock Period)",
+    "2.7 Calculation of Weighted Average CPI & The Instruction Mix",
+    "2.8 MIPS, MFLOPS, The Flaws of Peak Metrics & The SPEC Benchmark Methodology"
+  ],
+  "media": {
+    "coa-iron-law-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_processor_performance_cpi_iron_law.jpg",
+      "alt": "Quantitative Processor Performance Metrics and The Iron Law of Computing"
+    },
+    "cpu-performance-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=FZGugFqdr60",
+      "note": "Crash Course Computer Science #7: The Central Processing Unit (CPU)"
+    }
+  }
+}

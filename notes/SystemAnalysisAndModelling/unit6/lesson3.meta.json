@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Component & Deployment Diagrams: Physical Architecture & Distributed Topology",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Component Diagrams: Autonomous Modularity, Provided (Ball) and Required (Socket) Interface Assembly",
+    "3.2 Explicit Component Boundary Ports, Wiring Connectors, and Subsystem Packaging",
+    "3.3 Deployment Diagrams: Physical Device Nodes (3D Cubes) vs. Execution Environment Nodes (EENs)",
+    "3.4 Software Artifacts (<<artifact>>), Deployment Associations, and Communication Protocol Topologies",
+    "3.5 Mapping Logical Microservice Containers to Multi-Region Physical Cloud Clusters",
+    "3.6 Component Interface Wiring & Distributed Deployment Node Validator in C++"
+  ],
+  "media": {
+    "sam-component-deployment-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_component_and_deployment_architecture.jpg",
+      "alt": "Component Ball-and-Socket Wiring, Boundary Ports, and Multi-Tier Cloud Deployment Diagram"
+    },
+    "component-deployment-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=m8Icp_Cid5o",
+      "note": "freeCodeCamp: System Design, Distributed Components & Deployment Topologies"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Cache Mapping Architectures: Direct, Fully Associative & Set-Associative Mapping",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "4.5 Direct Mapping Architecture: Modulo Indexing, Address Fields (Tag, Line, Word) & Conflict Misses",
+    "4.6 Fully Associative Mapping: Content-Addressable Memory (CAM), Parallel Tag Comparators & True Flexibility",
+    "4.7 K-Way Set-Associative Mapping: The Modern Hybrid Compromise (2-Way, 4-Way, 8-Way & Set Indexing)",
+    "4.8 The 3 C's Miss Classification Framework: Compulsory, Capacity, and Conflict Misses"
+  ],
+  "media": {
+    "coa-cache-mapping-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_cache_mapping_direct_associative_set.jpg",
+      "alt": "Direct, Fully Associative, and K-Way Set Associative Cache Mapping Architectures"
+    },
+    "why-cpu-cache-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=6JpLD3PUAZk",
+      "note": "Computerphile: Why do CPUs Need Caches? (with Prof. Steve Furber)"
+    }
+  }
+}

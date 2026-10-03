@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Memory Hierarchy Fundamentals, Locality of Reference & AMAT Analysis",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "4.1 Key Characteristics of Computer Memory Systems (Location, Capacity, Unit of Transfer & Access Methods)",
+    "4.2 The Memory Hierarchy Pyramid: Speed vs. Capacity vs. Cost/Bit Trade-Offs",
+    "4.3 The Principle of Locality: Temporal vs. Spatial Locality in Modern Datapaths",
+    "4.4 Cache Read Operation Flowchart & Average Memory Access Time (AMAT) Formulations"
+  ],
+  "media": {
+    "coa-cache-hierarchy-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_cache_memory_hierarchy_amat.jpg",
+      "alt": "Memory Hierarchy Pyramid, Cache Read Operation Flowchart, and AMAT Analysis"
+    },
+    "cache-explained-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=yi0FhRqDJfo",
+      "note": "Branch Education: CPU Cache Explained - What is Cache Memory?"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Linear, Binary, Interpolation & Fibonacci Search Algorithms",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit9/lesson1",
+  "curriculumSections": [
+    "9.1 Linear/Sequential Search: O(n) Unsorted Array Scan & Sentinel Optimisation",
+    "9.2 Binary Search: O(log n) Divide-and-Conquer on Sorted Arrays & Correctness Proof",
+    "9.3 Interpolation Search: O(log log n) Proportional Position Estimate on Uniform Data",
+    "9.4 Fibonacci Search: Division-Free O(log n) Binary Variant",
+    "9.5 Comparative Analysis: Searching Algorithm Selection Guide"
+  ],
+  "media": {
+    "search-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_searching_linear_binary_interpolation.jpg",
+      "alt": "Binary Search, Interpolation Search and Fibonacci Search Comparison and Complexity Analysis"
+    },
+    "search-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=C46QfTjVCNU",
+      "note": "Jenny's Lectures CS IT: 7.1 Linear Search Algorithm"
+    }
+  }
+}

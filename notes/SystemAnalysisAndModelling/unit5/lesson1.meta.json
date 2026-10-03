@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Object-Oriented Paradigms & UML 2.5 Metamodel Architecture",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "1.1 Object-Oriented System Analysis Foundations: Encapsulation, State-Behavior Cohesion, and Abstraction",
+    "1.2 Advanced Structural Relationships: Association, Whole-Part Aggregation vs. Composition, and Generalization",
+    "1.3 Dynamic Binding, Late Binding & Interface Polymorphism in Enterprise Domain Architectures",
+    "1.4 The UML 2.5 Metamodel Framework: Classifiers (Things), Relationships, and Multi-View Diagram Taxonomies",
+    "1.5 The Three Complementary Modeling Perspectives: Structural (Class), Dynamic (State), and Functional (Interaction)",
+    "1.6 Graph-Based UML Metamodel Consistency & Encapsulation Validator in C++"
+  ],
+  "media": {
+    "sam-uml-metamodel-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_uml_metamodel_and_oo_paradigms.jpg",
+      "alt": "UML 2.5 Metamodel Architecture, OO Core Pillars, and Multi-Perspective Modeling Views"
+    },
+    "oo-concepts-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Le74BCHNgtE",
+      "note": "Abdul Bari: Object-Oriented Programming Principles & Core Architecture"
+    }
+  }
+}

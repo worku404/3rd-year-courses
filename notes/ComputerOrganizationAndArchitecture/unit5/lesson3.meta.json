@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 External Storage Subsystems, Magnetic Disk Timing & RAID Architectures",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "5.9 Magnetic Disk Physics & Geometric Data Layout: Platters, Tracks, Cylinders, CAV vs. ZBR",
+    "5.10 Disk Access Performance Kinetics: Seek Time, Rotational Latency & Block Transfer Derivations",
+    "5.11 RAID Architectures: Comparative Analysis of RAID 0, 1, 3, 4, 5, 6 & Nested (RAID 10) Topologies",
+    "5.12 Optical & Solid-State Evolution: CD/DVD/Blu-ray Pit Encoding & Flash Translation Layer (FTL)"
+  ],
+  "media": {
+    "coa-storage-raid-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_magnetic_disk_raid_architectures.jpg",
+      "alt": "Magnetic Disk Geometry, Access Latency Decomposition, and RAID 0/1/5/6 Architectures"
+    },
+    "raid-storage-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=eE7Bfw9lFfs",
+      "note": "Linus Tech Tips: RAID 0, RAID 1, RAID 10 - All You Need to Know as Fast As Possible"
+    }
+  }
+}

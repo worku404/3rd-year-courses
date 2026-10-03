@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Hardware Interrupt Architecture, Context Stacking & Multiple Interrupt Handling",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "3.5 Classes of Hardware Interrupts: Program Traps, Hardware Failures, Timers & I/O Requests",
+    "3.6 The Interrupt Cycle in the State Machine & Hardware Context Preservation on the Stack",
+    "3.7 Polled I/O vs. Interrupt-Driven I/O & CPU Utilization Analysis",
+    "3.8 Multiple Interrupt Management: Sequential (Disabled) Interrupts vs. Nested Priority Preemption"
+  ],
+  "media": {
+    "coa-interrupts-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_interrupt_control_flow_nested_priority.jpg",
+      "alt": "Hardware Interrupt Transfer of Control and Nested Priority Preemption"
+    },
+    "operating-systems-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=26QPDBe-NB8",
+      "note": "Crash Course Computer Science #18: Operating Systems"
+    }
+  }
+}

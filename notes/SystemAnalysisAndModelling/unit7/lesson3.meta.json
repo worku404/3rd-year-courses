@@ -1,0 +1,27 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Activity & Communication Diagrams: Swimlanes, Fork/Join Concurrency & Message Topologies",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Activity Diagrams as Petri Net Extensions: Token Flow Semantics and Action Execution",
+    "3.2 Control Nodes: Initial, Activity Final, Flow Final, Decision, and Merge Diamonds",
+    "3.3 Fork and Join Synchronization Bars: Parallel Branching, Concurrency Barriers, and Race Safety",
+    "3.4 Object Nodes, Object Flows, and Pin Parameters in Workflow Transformation",
+    "3.5 Swimlanes (Activity Partitions): Cross-Functional Organizational and Domain Boundaries",
+    "3.6 Communication (Collaboration) Diagrams: Object Roles, Association Links, and Nested Sequence Numbering",
+    "3.7 Comparing Sequence vs. Communication Diagrams: Time-Sequence vs. Structural Topology Trade-offs",
+    "3.8 Concurrent Workflow Execution & Barrier Synchronization Engine in C++"
+  ],
+  "media": {
+    "sam-activity-swimlanes-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_activity_diagrams_swimlanes_fork_join.jpg",
+      "alt": "UML Activity Diagrams: Swimlanes, Object Nodes, and Fork/Join Concurrency"
+    },
+    "activity-workflow-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=i-QyW8D3ei0",
+      "note": "Simplilearn: Software Development Lifecycle & Process Workflows"
+    }
+  }
+}

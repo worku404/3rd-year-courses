@@ -1,0 +1,24 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 The Data Dictionary Architecture, Metadata Algebra & Repository Synchronization",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 The Data Dictionary Mandate: Bridging Graphical DFD Bubbles to Concrete Physical Relational Schemas",
+    "2.2 Formal Data Dictionary Composite Algebra: Sequence (+), Selection ([|]), Iteration ({}), and Optionality (())",
+    "2.3 Data Element Specification Anatomy: Storage Footprint, Range Invariants, Display Formats & Aliases",
+    "2.4 Active vs. Passive Data Dictionaries: Self-Updating RDBMS Catalogs vs. Standalone CASE Repositories",
+    "2.5 EBNF Data Dictionary Grammar Parser & Schema Byte-Footprint Calculator in C++"
+  ],
+  "media": {
+    "sam-data-dictionary-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_data_dictionary_schema_and_algebra.jpg",
+      "alt": "Data Dictionary Architecture, Composite Notation Algebra, and Active vs Passive Repositories"
+    },
+    "systems-metadata-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=26QPDBe-NB8",
+      "note": "Crash Course Computer Science #18: Operating Systems, Memory & File Systems Architecture"
+    }
+  }
+}

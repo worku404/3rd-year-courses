@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Tree Hierarchical Topologies & Binary Tree Structural Axioms",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit6/lesson1",
+  "curriculumSections": [
+    "6.1 Hierarchical Non-Linear Topologies: Formal Axioms, Paths & Metric Dimensions",
+    "6.2 N-ary Trees: Memory Fragmentation & Left-Child / Right-Sibling (LCRS) Representation",
+    "6.3 Binary Tree Structural Taxonomies: Full, Complete, Perfect & Balanced Trees",
+    "6.4 Mathematical Bounds: Handshaking Lemma & Leaf-to-Internal Invariant Proofs",
+    "6.5 Production Architectures: Cache-Aligned Node Representation in Modern Java"
+  ],
+  "media": {
+    "tree-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_tree_anatomy_binary_classifications.jpg",
+      "alt": "Tree Anatomy, LCRS Generic Representation and Binary Tree Classifications"
+    },
+    "tree-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=vvey2QCs98o",
+      "note": "Jenny's Lectures CS IT: 5.2 Binary Tree in Data Structure | Types of Binary Tree"
+    }
+  }
+}

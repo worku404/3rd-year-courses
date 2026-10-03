@@ -1,0 +1,24 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Control Structures, Short-Circuit Evaluation & Bytecode Branching",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit2/lesson2",
+  "curriculumSections": [
+    "2.5 Operators: Bitwise vs Logical Short-Circuit Evaluation (&& / ||)",
+    "2.6 Conditional Branching Bytecodes & CPU Branch Prediction",
+    "2.7 Switch Architecture: tableswitch vs lookupswitch Algorithmic Mechanics",
+    "2.8 Iteration Constructs, Loop Invariant Hoisting & State Machine Flow"
+  ],
+  "media": {
+    "control-flow-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/control_flow_bytecode_jump_tables.jpg",
+      "alt": "Control Flow Compilation: Short-Circuit Logic & Switch Bytecodes"
+    },
+    "control-flow-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=IrQKDdptiw8",
+      "note": "Telusko: Switch Statement and Control Flow in Java"
+    }
+  }
+}

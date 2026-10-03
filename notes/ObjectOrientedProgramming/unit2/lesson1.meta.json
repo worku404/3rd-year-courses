@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 The JVM Architecture, Execution Pipeline & Memory Foundations",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit2/lesson1",
+  "curriculumSections": [
+    "2.1 The Java Virtual Machine (JVM) Specification & Execution Pipeline",
+    "2.2 ClassLoader Subsystem, Delegation Model & JIT Compilation",
+    "2.3 Runtime Data Areas: Metaspace, Stack Frames, and GC Heap",
+    "2.4 Primitive Data Types, IEEE-754 Precision Traps & Type Casting",
+    "2.5 Bytecode Anatomy of Java Program Entry Point"
+  ],
+  "media": {
+    "jvm-architecture-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/jvm_architecture_memory_model.jpg",
+      "alt": "JVM Internals & Runtime Data Areas Architecture"
+    },
+    "jvm-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=s7UgQ7_1KQY",
+      "note": "Telusko: JDK, JRE, and JVM Architecture Explained"
+    }
+  }
+}

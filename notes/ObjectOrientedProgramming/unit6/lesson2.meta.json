@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Exception Control Flow: Try-Catch-Finally, Throw/Throws & Clean Resource Management",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit6/lesson2",
+  "curriculumSections": [
+    "6.6 Execution Semantics of try-catch-finally: Normal, Exceptional, and Returning Paths",
+    "6.7 Explicit Signaling: The throw Keyword and Method Contracts with throws",
+    "6.8 Modern Resource Management: The Try-With-Resources Statement & AutoCloseable",
+    "6.9 Multi-Catch Syntax (|) & Disjoint Type Constraints",
+    "6.10 Defensive Validation vs. Exceptional Signaling: Performance Trade-Offs"
+  ],
+  "media": {
+    "control-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/try_catch_finally_resource_lifecycle.jpg",
+      "alt": "Try-Catch-Finally Control Flow and AutoCloseable Resource Lifecycle"
+    },
+    "control-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=kAOYeVYtukY",
+      "note": "Telusko: Exception throw keyword in Java"
+    }
+  }
+}

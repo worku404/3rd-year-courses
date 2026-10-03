@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 The Java Exception Hierarchy, Call Stack Unwinding & Checked vs. Unchecked Contracts",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit6/lesson1",
+  "curriculumSections": [
+    "6.1 The Philosophy of Exception Handling: Separating Failure Handling from Core Logic",
+    "6.2 The Throwable Hierarchy: Error, Exception, and RuntimeException",
+    "6.3 Stack Unwinding: JVM Call Stack Frame Destruction during Exception Propagation",
+    "6.4 Checked vs. Unchecked Exceptions: Architectural Intent vs. Language Pragmatics",
+    "6.5 Catch Block Order & Hierarchy Specialization Rules"
+  ],
+  "media": {
+    "hierarchy-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/exception_hierarchy_call_stack_unwinding.jpg",
+      "alt": "Java Exception Hierarchy and JVM Call Stack Unwinding Architecture"
+    },
+    "hierarchy-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=IBttEEFkH_Y",
+      "note": "Telusko: Exception Hierarchy in Java"
+    }
+  }
+}

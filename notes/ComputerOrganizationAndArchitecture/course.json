@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "title": "Software Engineering",
+    "slug": "software-engineering"
+  },
+  "course": {
+    "title": "Computer Organization and Architecture",
+    "slug": "computer-organization-and-architecture",
+    "overview": "Comprehensive 3rd-Year University course covering Computer System Organization and Architecture, Historical Computing Evolution, Quantitative Performance Assessment (Clock Cycles, CPI, MIPS, MFLOPS, Amdahl's Law, Little's Law), Top-Level Interconnection Structures, Instruction Cycle State Transitions, Hardware Interrupt Handling Mechanisms, Bus Topologies and Arbitration, Hierarchical Cache Memory Design (Direct, Associative, Set-Associative Mapping, Replacement Algorithms, Write-Through vs Write-Back), Semiconductor Main Memory Architectures (DRAM, SRAM, SDRAM, DDR), and Error-Correcting Codes (Hamming Distance and SEC-DED)."
+  }
+}

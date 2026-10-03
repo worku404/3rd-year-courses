@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "internet-programming",
+  "unit": 3,
+  "moduleTitle": "Unit 3 \u2014 Cascading Style Sheets (CSS) & Modern Layout Engines",
+  "moduleDescription": "The CSS Cascade algorithm, specificity calculation vectors, box model geometry (content-box vs border-box), margin collapsing, positioning schemes, 3D stacking contexts, 1D Flexbox, 2D CSS Grid, and responsive mobile-first architecture.",
+  "moduleOrder": 3,
+  "pdf": "IPunits/ip_unit3.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

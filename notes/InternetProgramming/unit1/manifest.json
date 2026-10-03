@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "internet-programming",
+  "unit": 1,
+  "moduleTitle": "Unit 1 \u2014 Introduction to Internet Programming & Web Architecture",
+  "moduleDescription": "Network protocols, TCP/IP stack, URI/URL structure, DNS resolution lifecycle, HTTP protocol specifications, web server execution models (Static, CGI, Dynamic), and web security foundations.",
+  "moduleOrder": 1,
+  "pdf": "IPunits/ip_unit1.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

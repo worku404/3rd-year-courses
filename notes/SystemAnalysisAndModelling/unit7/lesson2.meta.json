@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 State Machine Modeling: Harel Statecharts, Orthogonal Regions & Transition Logic",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 The Discrete-Event State Machine Paradigm: Mathematical Mealy/Moore Automata vs. Harel Statecharts",
+    "2.2 State Anatomy: State Compartments, Entry Actions, Exit Actions, and Do Activities",
+    "2.3 Transition Semantics: Trigger Events, Guard Conditions (Predicates), and Action Effects",
+    "2.4 Composite States and Orthogonal (AND) Concurrency Regions: Synchronized Sub-State Dynamics",
+    "2.5 Pseudostates: Choice, Junction, History (Shallow H vs. Deep H*), and Final States",
+    "2.6 Event-Driven State Pattern Engine & Concurrency Statechart Simulator in C++"
+  ],
+  "media": {
+    "sam-state-machine-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_state_machine_harel_statecharts.jpg",
+      "alt": "Harel Statecharts: Hierarchical States, Orthogonal Regions, and Guarded Transitions"
+    },
+    "state-machine-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=26QPDBe-NB8",
+      "note": "Crash Course Computer Science #18: Operating Systems, States & Concurrency"
+    }
+  }
+}

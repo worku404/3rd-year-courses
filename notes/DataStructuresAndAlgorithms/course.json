@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "title": "Software Engineering",
+    "slug": "software-engineering"
+  },
+  "course": {
+    "title": "Data Structures & Algorithms",
+    "slug": "data-structures-and-algorithms",
+    "overview": "Comprehensive 3rd-Year University course covering Abstract Data Types (ADTs), Asymptotic Complexity Analysis (Big-O, Omega, Theta), Sorting and Searching, Linear Structures (Linked Lists, Stacks, Queues), Hierarchical Structures (Binary Trees, BST, AVL Trees, Heaps), Graph Theory & Network Algorithms, Advanced Divide-and-Conquer Sorting, and Hash Table Engineering."
+  }
+}

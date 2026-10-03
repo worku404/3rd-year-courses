@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 6,
+  "moduleTitle": "Unit 6 \u2014 Object-Oriented Structural Modeling, Class & Deployment Architecture",
+  "moduleDescription": "Rigorous investigation of UML 2.5 structural modeling diagrams, the 3-compartment Class Diagram specification (Attributes, Operations, Visibilities, Multiplicities), the Boundary-Control-Entity (BCE) architectural pattern and its 4 communication invariants, structural relationships (Association, Aggregation vs. Composition cascade destruction, Generalization/Specialization), Object Diagrams as temporal instance snapshots at time t0, and physical architecture modeling through Component Diagrams (Ball-and-Socket interface assembly, Ports) and multi-tier Deployment Diagrams (Device Nodes, Execution Environment Nodes [EENs], and Artifacts).",
+  "moduleOrder": 6,
+  "pdf": "SAMunits/sam_unit6.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

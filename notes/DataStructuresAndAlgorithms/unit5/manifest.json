@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 5,
+  "moduleTitle": "Unit 5 \u2014 Queues, Circular Buffers & Priority Schedulers",
+  "moduleDescription": "Engineering foundations of the Queue Abstract Data Type (ADT): FIFO invariants, linear array drifting defects, modulo arithmetic ring buffers, double-ended queues (Deques), sliding window monotonic queues, complete binary heap priority queues, and OS task scheduling architectures.",
+  "moduleOrder": 5,
+  "pdf": "DSAunits/dsa_unit5.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

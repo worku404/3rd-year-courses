@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "computer-organization-and-architecture",
+  "unit": 5,
+  "moduleTitle": "Unit 5 \u2014 Semiconductor Main Memory, Error Correction & Storage Architectures",
+  "moduleDescription": "Semiconductor memory cell physics (SRAM vs DRAM), memory cell refresh kinetics, ROM taxonomies, chip organization and address multiplexing (RAS/CAS), error detection and correction principles, Hamming Single Error Correction and Double Error Detection (SEC-DED) codes, syndrome decoding, magnetic disk physical kinematics, rotational latency and seek timing, and Redundant Array of Independent Disks (RAID 0, 1, 5, 6, 10).",
+  "moduleOrder": 5,
+  "pdf": "COAunits/coa_unit5.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

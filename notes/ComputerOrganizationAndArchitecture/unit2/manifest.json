@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "computer-organization-and-architecture",
+  "unit": 2,
+  "moduleTitle": "Unit 2 \u2014 Computer Evolution, Generations & Quantitative Performance Assessment",
+  "moduleDescription": "The technological evolution of computing across four generations (Vacuum Tubes, Transistors, Integrated Circuits, VLSI), the Princeton IAS machine architecture, Moore's Law and the Power Wall, processor clock speed, CPI, MIPS, the Iron Law of performance, Amdahl's Law speedup limits, and Little's Law in hardware queuing systems.",
+  "moduleOrder": 2,
+  "pdf": "COAunits/coa_unit2.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Web Server Architecture, Runtime Models & Security Engineering",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Evolution of Web Runtimes (Static, CGI, Dynamic Scripting)",
+    "3.2 Concurrency Models: Thread Pools vs Non-Blocking Event Loops",
+    "3.3 Client-Side vs Server-Side Computation Matrix",
+    "3.4 Web Application Security Architecture (OWASP Top 10 Foundations)"
+  ],
+  "media": {
+    "webserver-evolution-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/web_server_evolution_cgi_to_eventloop.jpg",
+      "alt": "Web Server Evolution from Static Files and CGI to Modern Asynchronous Event Loops"
+    },
+    "backend-architecture-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=4r6WdaY3SOA",
+      "note": "Web Dev Simplified: How The Backend Works and Client-Server Architecture"
+    }
+  }
+}

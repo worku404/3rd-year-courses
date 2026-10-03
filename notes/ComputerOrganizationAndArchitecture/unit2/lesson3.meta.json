@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Amdahl's Law, Multi-Core Scaling Limits & Hardware Queuing Theory (Little's Law)",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "2.9 Amdahl's Law Mathematical Derivation & Speedup Asymptotic Ceilings",
+    "2.10 Multi-Core Parallel Scaling Limits, Diminishing Returns & Synchronization Overhead",
+    "2.11 Amdahl's Law vs. Gustafson's Law (Weak vs. Strong Scaling)",
+    "2.12 Queuing Theory in Computer Systems: Little's Law Applied to Memory & Instruction Buffers"
+  ],
+  "media": {
+    "coa-amdahl-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_amdahls_law_multicore_speedup_curves.jpg",
+      "alt": "Amdahl's Law Multi-Core Speedup Limits and Little's Law Queuing Theory"
+    },
+    "advanced-cpu-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=rtAlC5J1U40",
+      "note": "Crash Course Computer Science #9: Advanced CPU Designs"
+    }
+  }
+}

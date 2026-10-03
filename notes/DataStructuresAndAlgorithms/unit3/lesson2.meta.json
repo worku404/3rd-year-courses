@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Doubly Linked Lists, Sentinel Nodes & Bidirectional Navigation",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit3/lesson2",
+  "curriculumSections": [
+    "3.6 Doubly Linked List (DLL) Architecture: Symmetrical Forward and Backward References",
+    "3.7 The Power of Sentinel (Dummy) Nodes: Eliminating Null Pointer Boundary Edge Cases",
+    "3.8 Symmetrical Mutations: O(1) Deletion with Known Node Reference vs. Predecessor Searches",
+    "3.9 Bidirectional Traversal & Reverse Traversal Mechanics",
+    "3.10 Memory Overhead vs. Algorithmic Flexibility: The Pointer Cost Equation"
+  ],
+  "media": {
+    "dll-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_doubly_linked_list_sentinel_nodes.jpg",
+      "alt": "Doubly Linked List Architecture and the Sentinel Node Pattern"
+    },
+    "dll-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=nmsYPYDN8L0",
+      "note": "Abdul Bari: Doubly Linked List Insertion & Deletion"
+    }
+  }
+}

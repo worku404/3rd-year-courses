@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Modern Layout Architectures: Panes, Constraints & Responsive GUI Design",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit7/lesson2",
+  "curriculumSections": [
+    "7.6 Principles of Responsive Layout Management: Coordinate-Free GUI Architecture",
+    "7.7 Linear Panes: HBox and VBox Alignment, Margins, and Insets",
+    "7.8 Matrix Layouts: GridPane Column/Row Indexing, Spanning, and Constraints",
+    "7.9 Positional Panes: BorderPane (5 Regions) and FlowPane Wrapping",
+    "7.10 Composite Layout Engineering: Nesting Panes for Scalable Desktop Applications"
+  ],
+  "media": {
+    "layout-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/javafx_layout_panes_matrix_composite.jpg",
+      "alt": "JavaFX Responsive Layout Panes and Composite Desktop Wireframe"
+    },
+    "layout-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=UP7u63R0MZU",
+      "note": "Java Code Junkie: BorderPane JavaFX GUI Tutorial"
+    }
+  }
+}

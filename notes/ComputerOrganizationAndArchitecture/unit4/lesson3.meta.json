@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Cache Replacement Algorithms, Write Policies & Multicore Cache Coherency",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "4.9 Cache Line Replacement Algorithms: True LRU, Tree-PLRU, FIFO, LFU, and Random Eviction",
+    "4.10 Memory Write Policies: Write-Through vs. Write-Back & Write-Allocate vs. Write-Around",
+    "4.11 Multi-Core Cache Coherence: The Snooping Bus Mechanism & The 4-State MESI Protocol",
+    "4.12 Modern High-Throughput Cache Microarchitectures: Non-Blocking Caches, MSHRs & Hardware Prefetchers"
+  ],
+  "media": {
+    "coa-cache-mesi-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_cache_mesi_protocol_replacement_policies.jpg",
+      "alt": "MESI Cache Coherency State Machine, Write Policies, and Replacement Algorithms"
+    },
+    "memory-storage-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=TQCr9RV7twk",
+      "note": "Crash Course Computer Science #19: Memory & Storage"
+    }
+  }
+}

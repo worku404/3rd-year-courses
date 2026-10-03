@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Semiconductor Memory Technologies, DRAM Cell Kinetics & Chip Organization",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "5.1 Semiconductor Memory Cell Fundamentals: SRAM (6T Latch) vs. DRAM (1T-1C Trench Capacitor)",
+    "5.2 DRAM Refreshing Kinetics: Distributed vs. Burst Refreshing, Precharge & Sensing Cycles",
+    "5.3 ROM Taxonomies & Evolution: Mask ROM, PROM, EPROM, EEPROM & Flash Memory",
+    "5.4 DRAM Internal Architecture & Address Multiplexing: 16Mb (4M x 4) Organization, RAS/CAS & Module Arrays"
+  ],
+  "media": {
+    "coa-semiconductor-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_semiconductor_dram_sram_organization.jpg",
+      "alt": "Semiconductor Memory Cells (SRAM vs DRAM) and 16Mb Chip Internal Organization"
+    },
+    "semiconductor-memory-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=TQCr9RV7twk",
+      "note": "Crash Course Computer Science #19: Memory & Storage"
+    }
+  }
+}

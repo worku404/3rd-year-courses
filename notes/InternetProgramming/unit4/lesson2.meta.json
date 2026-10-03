@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 The Browser Object Model (BOM), DOM Traversal & Safe Dynamic Mutation",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "4.5 The Browser Object Model (BOM) Hierarchy (window, navigator, history, location)",
+    "4.6 Document Object Model (DOM) Tree Architecture & Node Typologies",
+    "4.7 Querying Algorithms: Live HTMLCollections vs Static NodeLists",
+    "4.8 DOM Tree Mutation, Reflow/Repaint Mechanics & Preventing Cross-Site Scripting (XSS)"
+  ],
+  "media": {
+    "bom-dom-tree-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/dom_tree_query_mutation_bom_hierarchy.jpg",
+      "alt": "BOM Hierarchy and DOM Tree Traversal and Mutation Architecture"
+    },
+    "dom-manipulation-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=y17RuWkWdn8",
+      "note": "Web Dev Simplified: Learn DOM Manipulation In 18 Minutes"
+    }
+  }
+}

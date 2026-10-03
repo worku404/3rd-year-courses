@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 UML Class Diagrams & The Entity-Boundary-Control (BCE) Architecture",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "1.1 Class Diagram Anatomy: The Three Compartments (Name, Attributes, Operations)",
+    "1.2 Visibility Modifiers (+, -, #, ~) and Invariant Multiplicity Expressions",
+    "1.3 The Boundary-Control-Entity (BCE) Architectural Pattern: Roles and The Four Strict Communication Rules",
+    "1.4 Class Diagrams vs. Entity-Relationship Diagrams (ERDs): Data Modeling vs. Encapsulated Behavioral Systems",
+    "1.5 Advanced Structural Couplings: Association, Aggregation (has-a) vs. Composition (cascade destruction)",
+    "1.6 BCE Architecture & Multiplicity Compliance Engine in C++"
+  ],
+  "media": {
+    "sam-class-diagram-bce-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_class_diagram_bce_architecture.jpg",
+      "alt": "Class Diagram Anatomy, Multiplicities, and Boundary-Control-Entity (BCE) Invariant Rules"
+    },
+    "class-diagram-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Znmz_WxMxp4",
+      "note": "Telusko: Class and Object Theory in Software Engineering"
+    }
+  }
+}

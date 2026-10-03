@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Runtime Call Stacks, Backtracking Topologies & Boundary Protection",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit4/lesson3",
+  "curriculumSections": [
+    "4.11 JVM Call Stacks & Activation Records: LVT, Operand Stacks & Frame Data",
+    "4.12 Execution Lifecycles: Invocation Pushing, Unwinding, and -Xss Boundary Sizing",
+    "4.13 Boundary Failure Diagnostics: StackOverflowError vs. OutOfMemoryError",
+    "4.14 State-Space Traversal: Graph DFS, Maze Solving & Backtracking Pruning",
+    "4.15 Industrial Command Pattern: Transactional Undo-Redo Stack Architectures"
+  ],
+  "media": {
+    "callstack-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_call_stack_activation_records_backtracking.jpg",
+      "alt": "JVM Runtime Call Stack Frames and Backtracking State-Space Topologies"
+    },
+    "callstack-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=_r7JntQ1Wd8",
+      "note": "Rapid Tutor: 66 - Function Call Stack working | Applications of Stack | DSA Tutorial"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 JavaScript Engine Architecture, Execution Contexts & The Prototype Object Model",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "4.1 JavaScript Engine Internals (V8, Parsing, AST, Ignition & TurboFan)",
+    "4.2 Execution Contexts, Call Stack, Hoisting & Temporal Dead Zone (TDZ)",
+    "4.3 Lexical Scoping, Scope Chain Resolution & The Closure Retention Mechanism",
+    "4.4 Data Types, Control Structures, First-Class Functions & Prototype-Based Objects"
+  ],
+  "media": {
+    "v8-execution-context-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/js_engine_v8_execution_context_closures.jpg",
+      "alt": "V8 Engine Execution Pipeline, Execution Contexts and Closure Memory Retention"
+    },
+    "execution-context-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=iLWTnMzWtj4",
+      "note": "Akshay Saini: How JavaScript Code is executed? & Call Stack"
+    }
+  }
+}

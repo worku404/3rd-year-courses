@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "title": "Software Engineering",
+    "slug": "software-engineering"
+  },
+  "course": {
+    "title": "System Analysis and Modelling",
+    "slug": "system-analysis-and-modelling",
+    "overview": "Comprehensive 3rd-Year University course covering Classical and Modern Systems Analysis, the System Development Life Cycle (SDLC) models (Waterfall, Spiral, V-Model, Agile/Scrum), Requirements Engineering (elicitation, functional vs non-functional requirements, IEEE 830 SRS specifications, feasibility TELOS analysis), Structured Analysis (Data Flow Diagrams Levels 0/1/2, Data Dictionaries, Decision Tables/Trees), Object-Oriented Analysis (OOA), UML 2.5 Structural Modelling (Class Diagrams, Object Diagrams, Associations, Composition, Multiplicity), and UML Behavioral Modelling (Use Case Specifications, Sequence Diagrams, State Machine Diagrams, Activity Diagrams)."
+  }
+}

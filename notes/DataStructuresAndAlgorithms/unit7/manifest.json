@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 7,
+  "moduleTitle": "Unit 7 \u2014 Graph Topologies, Traversal & Shortest Paths",
+  "moduleDescription": "Advanced computational study of non-linear network topologies: Graph formal specification G=(V,E), Handshaking Lemma, Adjacency Matrix vs. Adjacency List storage architectures, Depth-First Search (DFS) with 3-color cycle detection, Breadth-First Search (BFS) shortest-hop wavefronts, Kahn's DAG topological sorting, Dijkstra's Single-Source Shortest Path algorithm, and Minimum Spanning Trees (Prim's cut engine and Kruskal's Disjoint-Set Union-Find).",
+  "moduleOrder": 7,
+  "pdf": "DSAunits/dsa_unit7.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

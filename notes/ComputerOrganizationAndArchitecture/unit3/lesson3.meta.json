@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Bus Interconnection Structures, Multi-Tier Hierarchies & Timing Protocols",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.9 The System Bus Interconnection Triad: Data, Address & Control Signal Topology",
+    "3.10 Propagation Bottlenecks & Multi-Tier Bus Hierarchies (Traditional vs. Mezzanine / PCIe)",
+    "3.11 Bus Arbitration Mechanics: Centralized (Daisy Chaining) vs. Distributed Priority Election",
+    "3.12 Bus Timing Protocols: Synchronous Clock-Edge Latching vs. Asynchronous Handshaking Protocols"
+  ],
+  "media": {
+    "coa-bus-hierarchy-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_bus_hierarchies_arbitration_timing.jpg",
+      "alt": "Multi-Tier Bus Hierarchies, Arbitration Mechanisms and Timing Protocols"
+    },
+    "registers-ram-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fpnE6UAfbtU",
+      "note": "Crash Course Computer Science #6: Registers and RAM"
+    }
+  }
+}

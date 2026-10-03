@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 2,
+  "moduleTitle": "Unit 2 \u2014 System Development Life Cycle (SDLC) Deep Dive & Project Inception",
+  "moduleDescription": "Project identification and selection dynamics, top-down vs. bottom-up initiation, weighted multi-criteria decision matrices, value chain alignment, the TELOS feasibility framework (Technical, Economic, Legal, Operational, Schedule, Political), quantitative Cost-Benefit Analysis (Net Present Value, ROI, Payback Period), the duality of Logical vs. Physical system design, cutover conversion strategies (Direct, Parallel, Pilot, Phased), and software maintenance categorization (Corrective, Adaptive, Perfective, Preventive).",
+  "moduleOrder": 2,
+  "pdf": "SAMunits/sam_unit2.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

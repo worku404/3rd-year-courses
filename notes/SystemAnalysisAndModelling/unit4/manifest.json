@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 4,
+  "moduleTitle": "Unit 4 \u2014 Structured Analysis, Hierarchical Data Flow Modeling & Logic Specifications",
+  "moduleDescription": "Comprehensive examination of Structured Analysis methodologies, the three orthogonal system views (Functional, Data, Dynamic), hierarchical Data Flow Diagrams (Context Diagram Level 0, Level 1 Subsystem Decomposition, and Level 2 Functional Primitives), flow conservation invariants (Black Hole, Miracle Source, and Grey Hole anti-patterns), Data Dictionary architecture and composite algebraic metadata grammars, and rigorous logic modeling through Decision Trees, 2^N complete Decision Tables, and Structured English Process Specifications (P-Specs).",
+  "moduleOrder": 4,
+  "pdf": "SAMunits/sam_unit4.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

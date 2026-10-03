@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 The Three Orthogonal Views of Structured Analysis & Hierarchical DFDs (Levels 0, 1, 2)",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "1.1 Structured Analysis Foundations: The Three Orthogonal Views (Functional, Data, Dynamic)",
+    "1.2 Data Flow Diagrams (DFDs) vs. Program Flowcharts: Data Dynamics vs. Control Flow",
+    "1.3 Canonical DFD Elements: Entities, Processes, Data Stores, and Directed Flows",
+    "1.4 Hierarchical Decomposition: Context Diagram (Level 0), Subsystems (Level 1), and Primitives (Level 2)",
+    "1.5 Flow Conservation Invariants: Black Holes, Miracle Sources, Grey Holes & Parent-Child Balancing Rules",
+    "1.6 Graph-Based DFD Consistency & Flow Conservation Validator in C++"
+  ],
+  "media": {
+    "sam-dfd-hierarchy-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_dfd_levels_and_rules_taxonomy.jpg",
+      "alt": "Data Flow Diagram Hierarchical Decomposition Levels and Flow Conservation Rules"
+    },
+    "dfd-structured-analysis-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=O753uuutqH8",
+      "note": "Crash Course Computer Science #16: Software Engineering & Data Flow Modeling"
+    }
+  }
+}

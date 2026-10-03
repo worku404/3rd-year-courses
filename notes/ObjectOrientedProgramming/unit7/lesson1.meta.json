@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 JavaFX Architecture, The Scene Graph & Core UI Controls",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit7/lesson1",
+  "curriculumSections": [
+    "7.1 Evolution of Java GUIs: From AWT & Swing to the Modern JavaFX Architecture",
+    "7.2 The Theater Metaphor: Stage, Scene, and the Hierarchical Scene Graph (Node)",
+    "7.3 Lifecycle of a JavaFX Application: launch(), init(), start(), and stop()",
+    "7.4 Essential UI Controls: Text inputs, Labels, Buttons, and Selection Controls",
+    "7.5 Threading Model: The JavaFX Application Thread vs. Background Concurrency"
+  ],
+  "media": {
+    "stage-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/javafx_stage_scene_scenegraph_architecture.jpg",
+      "alt": "JavaFX Scene Graph and Application Architecture"
+    },
+    "stage-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=As7TEjqJ3Ao",
+      "note": "Bro Code: JavaFX stages"
+    }
+  }
+}

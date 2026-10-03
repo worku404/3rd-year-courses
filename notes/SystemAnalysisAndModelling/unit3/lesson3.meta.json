@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Fact-Finding Elicitation Techniques (JAD, Interviews, Observation) & Structured vs. Object-Oriented Analysis",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.1 Elicitation Methodology Spectrum: Structured vs. Unstructured Interviews, Questionnaires, Likert Scales & Sizing",
+    "3.2 Joint Application Development (JAD): IBM Workshop Dynamics, Facilitator Roles, Conflict Resolution & Rapid Consensus",
+    "3.3 Operational Observation (Hawthorne Effect Mitigation) & Archival Document / Form Auditing",
+    "3.4 Structured Analysis Paradigm: Functional Decomposition, Data Flow Diagrams (DFDs), Data Dictionaries & Decision Tables",
+    "3.5 Object-Oriented Analysis Paradigm: Encapsulation, UML 2.5 Use Cases, Domain Classes, and Polymorphic Modularity",
+    "3.6 Interactive Decision Table Logic Evaluator & Ambiguity Disambiguation Engine in C++"
+  ],
+  "media": {
+    "sam-elicitation-paradigms-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_elicitation_techniques_and_analysis_paradigms.jpg",
+      "alt": "Fact-Finding Elicitation Spectrum and Structured vs Object-Oriented Analysis Paradigms"
+    },
+    "scrum-elicitation-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=9TycLR0TqFA",
+      "note": "Simplilearn: Agile & Collaborative Cross-Functional Requirements Workshops"
+    }
+  }
+}

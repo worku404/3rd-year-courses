@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Inheritance Mechanics, The Diamond Problem & super() Lifecycle",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "oop/unit4/lesson1",
+  "curriculumSections": [
+    "4.1 IS-A Modeling, Specialization & Single Class Inheritance",
+    "4.2 The Deadly Diamond Problem: State Ambiguity & The Java Resolution",
+    "4.3 Subclass Heap Memory Layout & Field Contiguity",
+    "4.4 Constructor Chaining via super() & Top-Down Initialization Lifecycle",
+    "4.5 Field Shadowing vs Method Overriding & The Fragile Base Class Problem"
+  ],
+  "media": {
+    "inheritance-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/inheritance_diamond_problem_memory_layout.jpg",
+      "alt": "Inheritance Architecture: The Diamond Problem and Heap Object Layout"
+    },
+    "inheritance-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=dFuVh_Bzy9c",
+      "note": "Telusko: What is Inheritance in Java"
+    }
+  }
+}

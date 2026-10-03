@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 4,
+  "moduleTitle": "Unit 4 \u2014 Stacks, Storage Architectures & Expression Parsing Mechanics",
+  "moduleDescription": "Comprehensive engineering study of the Stack Abstract Data Type (ADT): LIFO formal invariants, contiguous array vs heap-allocated linked node storage topologies, Dijkstra's Shunting-Yard Infix-to-Postfix conversion, Reverse Polish Notation (RPN) evaluation engines, runtime activation call stacks, and backtracking state machines.",
+  "moduleOrder": 4,
+  "pdf": "DSAunits/dsa_unit4.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

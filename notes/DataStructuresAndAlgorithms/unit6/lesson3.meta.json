@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Binary Search Trees (BST): Search, Insertion, Deletion Mechanics & AVL Balancing",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit6/lesson3",
+  "curriculumSections": [
+    "6.11 Binary Search Tree (BST) Ordering Axioms & Search/Insertion Dynamics",
+    "6.12 Deletion Mechanics: The Three Canonical Cases & Deletion by Merging vs. Copying",
+    "6.13 In-Order Successor & Predecessor Splice Invariants",
+    "6.14 Pathological Degeneration: Skewed Tree Disasters on Pre-Sorted Inputs",
+    "6.15 Self-Balancing Foundations: Balance Factors & The Four AVL Rotations (LL, RR, LR, RL)"
+  ],
+  "media": {
+    "bst-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_bst_operations_deletion_avl_rotations.jpg",
+      "alt": "Binary Search Tree Deletion Mechanics (Merging vs Copying) and AVL Balancing Rotations"
+    },
+    "bst-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=cySVml6e_Fc",
+      "note": "Jenny's Lectures CS IT: 5.10 Binary Search Trees (BST) - Insertion and Deletion | DSA Full Course"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 8,
+  "moduleTitle": "Unit 8 \u2014 Advanced Sorting Algorithms",
+  "moduleDescription": "Rigorous study of O(n log n) and sub-linear sorting algorithms: Shell Sort gap-sequence mathematics, Merge Sort stable divide-and-conquer and external sorting, Quick Sort Lomuto/Hoare partition schemas and randomised pivot strategies, Heap Sort BuildHeap O(n) proof and in-place extraction, the Omega(n log n) information-theoretic lower bound, and linear-time non-comparison sorts (Counting Sort and Radix Sort LSD/MSD).",
+  "moduleOrder": 8,
+  "pdf": "DSAunits/dsa_unit8.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Quick Sort Partitioning Architectures & In-Place Heap Sort",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit8/lesson2",
+  "curriculumSections": [
+    "8.6 Quick Sort: Lomuto Partition Schema & Pivot Correctness Invariant",
+    "8.7 Hoare Partition vs Lomuto: Off-by-One Boundaries & Performance Delta",
+    "8.8 Pivot Selection Strategies: Last, Random, Median-of-Three, Dual-Pivot",
+    "8.9 Heap Sort: BuildHeap O(n) Linear Heapify Proof & In-Place Extract-Max Loop",
+    "8.10 Sorting Stability and Cache Behaviour Trade-offs"
+  ],
+  "media": {
+    "quick-heap-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_quick_sort_partition_heap_sort_heapify.jpg",
+      "alt": "Quick Sort Lomuto Partitioning Trace and Heap Sort Heapify BuildHeap Phases"
+    },
+    "quick-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Hoixgm4-P4M",
+      "note": "Michael Sambol: Quick sort in 4 minutes"
+    },
+    "heap-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=HqPJF2L5h9U",
+      "note": "Abdul Bari: 2.6.3 Heap - Heap Sort - Heapify - Priority Queues"
+    }
+  }
+}

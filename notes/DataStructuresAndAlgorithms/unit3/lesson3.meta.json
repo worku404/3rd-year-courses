@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Circular Linked Lists, Ring Buffers & Real-World System Applications",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit3/lesson3",
+  "curriculumSections": [
+    "3.11 Circular Linked Lists (CLL): Eliminating Null Terminators & Infinite Ring Topologies",
+    "3.12 Circular List Operations: Split-Point Invariants and Ring Traversals",
+    "3.13 Floyd's Cycle-Finding Algorithm: Tortoise and Hare Loop Detection (O(n) Time, O(1) Space)",
+    "3.14 Real-World Applications: OS Round-Robin CPU Schedulers, Undo/Redo Buffers & MRU/LRU Caches",
+    "3.15 Enterprise Implementation: Building a Production LRU Cache with HashMap + Doubly Linked List"
+  ],
+  "media": {
+    "circular-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_circular_linked_list_floyd_cycle.jpg",
+      "alt": "Circular Linked Lists, Floyd's Cycle Detection and LRU Cache Architecture"
+    },
+    "circular-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=eqo5Cr0jP6s",
+      "note": "Abdul Bari: Circular Linked List Insertion & Deletion"
+    }
+  }
+}

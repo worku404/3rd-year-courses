@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 3,
+  "moduleTitle": "Unit 3 \u2014 Linked List Data Structure and Its Applications",
+  "moduleDescription": "In-depth study of pointer-linked dynamic data structures: Singly Linked Lists, splice invariants, pointer loss anti-patterns, Doubly Linked Lists, Sentinel (Dummy) Node patterns, Circular Linked Lists, Floyd's Cycle-Finding Algorithm (Tortoise and Hare), and LRU cache production architectures.",
+  "moduleOrder": 3,
+  "pdf": "DSAunits/dsa_unit3.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

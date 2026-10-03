@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Simple Exchange & Selection Sorts: Bubble Sort, Stability & Selection Sort",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit2/lesson2",
+  "curriculumSections": [
+    "2.6 The Taxonomy of Sorting: Internal/External, In-Place Constraints & Algorithmic Stability",
+    "2.7 Bubble Sort Mechanics: Pass Reductions, Inversion Bubbling & Early-Exit Flags",
+    "2.8 Selection Sort Architecture: Minimum Scanning, Swap Invariants & Non-Adaptive Behavior",
+    "2.9 Stability Analysis: Why Selection Sort Violates Stability & How to Mitigate It",
+    "2.10 Write Minimization: When Selection Sort Outperforms All Other O(n^2) Sorts (Flash/EEPROM Memory)"
+  ],
+  "media": {
+    "bubble-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_bubble_vs_selection_sort_stability.jpg",
+      "alt": "Exchange vs Selection Sort Mechanics, Stability and Write Minimization"
+    },
+    "bubble-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Dv4qLJcxus8",
+      "note": "Bro Code: Learn Bubble Sort in 7 minutes"
+    }
+  }
+}

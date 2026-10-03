@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 System Development Methodologies & Process Lifecycles (SDLC)",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "1.9 The Classical Waterfall Model: Phase Gates, Deliverables, and the Late-Stage Integration Fallacy",
+    "1.10 The V-Model: Early Verification, Validation Traceability & Test-Level Mapping",
+    "1.11 Evolutionary & Risk-Driven Paradigms: Boehm's Spiral Model (4 Quadrants & Risk Exposure)",
+    "1.12 Agile Scrum, Rapid Application Development (RAD) & Modern Adaptive Frameworks"
+  ],
+  "media": {
+    "sam-sdlc-models-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_sdlc_models_waterfall_vmodel_spiral_agile.jpg",
+      "alt": "Comprehensive SDLC Comparison: Waterfall, V-Model, Boehm's Spiral, and Agile Scrum"
+    },
+    "sdlc-overview-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=i-QyW8D3ei0",
+      "note": "Simplilearn: Software Development Lifecycle in 9 Minutes"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Expression Parsing Mechanics: Infix, Postfix & Shunting-Yard Algorithm",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit4/lesson2",
+  "curriculumSections": [
+    "4.6 Expression Notations: Infix Ambiguity vs. Reverse Polish Notation (RPN) Determinism",
+    "4.7 Dijkstra's Shunting-Yard Translation Algorithm: Precedence Lattices & Associativity Invariants",
+    "4.8 Postfix Evaluation Engine: Operand Stack State Transitions & Non-Commutative Pop Orders",
+    "4.9 Architectural Trace Analysis: Multi-Token Algebraic Evaluation from Slide Decks",
+    "4.10 AST Synthesis: Transforming Postfix Token Streams into Executable Expression Trees"
+  ],
+  "media": {
+    "parsing-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_expression_parsing_infix_postfix_ast.jpg",
+      "alt": "Expression Parsing Mechanics: Shunting-Yard Algorithm and Postfix Evaluation Engine"
+    },
+    "parsing-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=TB7qzDgX-pI",
+      "note": "Jenny's Lectures CS IT: 3.5 Infix to Postfix Conversion Rules using Stack | Data structures Tutorials"
+    }
+  }
+}

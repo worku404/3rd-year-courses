@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Java HashMap Internals, String Hashing & Production Applications",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit9/lesson3",
+  "curriculumSections": [
+    "9.11 Java HashMap: Treeification, Rehashing, Bit-Masking vs Modulo",
+    "9.12 String hashCode() Polynomial Rolling Hash & Java Interning",
+    "9.13 Compiler Symbol Tables & UNIX Shell Command Caching",
+    "9.14 Consistent Hashing: DHT Ring Architecture for Distributed Systems",
+    "9.15 Cryptographic Hash Functions: SHA-256, MD5, Password Storage (BCrypt)"
+  ],
+  "media": {
+    "hashmap-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_hash_hashmap_applications_production.jpg",
+      "alt": "Java HashMap Internals, Applications: Caching, DHT, Compiler Symbol Tables"
+    },
+    "hashmap-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=shs0KM3wKv8",
+      "note": "HackerRank: Data Structures: Hash Tables"
+    }
+  }
+}

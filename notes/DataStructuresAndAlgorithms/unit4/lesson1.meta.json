@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Stack Abstract Data Type & Storage Architectures (Array vs Linked List)",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit4/lesson1",
+  "curriculumSections": [
+    "4.1 Stack Abstract Data Type (ADT): Mathematical LIFO Invariants & State Transition Axioms",
+    "4.2 Contiguous Array Implementation: Pointer Arithmetic, Overflow/Underflow & Loitering Prevention",
+    "4.3 Heap Linked Node Implementation: Head-as-Top Strategy, Strict O(1) Guarantees & Memory Overhead",
+    "4.4 Hardware Cache Locality & Comparative Architectural Trade-Off Matrix",
+    "4.5 Industrial Thread-Safe Stacks: Treiber Lock-Free Algorithmic Architecture"
+  ],
+  "media": {
+    "stack-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_stack_operations_array_vs_linkedlist.jpg",
+      "alt": "Stack ADT Memory Architectures: Contiguous Array Buffer vs Dynamic Heap Linked List"
+    },
+    "stack-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=bxRVz8zklWM",
+      "note": "Jenny's Lectures CS IT: 3.1 Stack in Data Structure | Introduction to Stack | Data Structures Tutorials"
+    }
+  }
+}

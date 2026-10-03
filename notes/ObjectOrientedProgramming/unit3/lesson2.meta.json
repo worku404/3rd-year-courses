@@ -1,0 +1,24 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Encapsulation, Access Control & The Initialization Lifecycle",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit3/lesson2",
+  "curriculumSections": [
+    "3.5 Information Hiding & The 4 Access Modifier Boundaries",
+    "3.6 Defensive Copying: Preventing Encapsulation Breaches",
+    "3.7 Constructor Chaining via this() & Telescoping Anti-Patterns",
+    "3.8 The 4-Phase JVM Object Initialization Pipeline (<init> Mechanics)"
+  ],
+  "media": {
+    "encapsulation-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/constructor_chaining_initialization_order.jpg",
+      "alt": "Encapsulation Boundaries, Constructor Chaining and Object Initialization"
+    },
+    "constructor-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=UC_aqNUFyVI",
+      "note": "Telusko: Constructor in Java"
+    }
+  }
+}

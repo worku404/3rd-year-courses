@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 7,
+  "moduleTitle": "Unit 7 \u2014 Graphical User Interfaces (GUI) & Event-Driven Architecture",
+  "moduleDescription": "Mastering modern Java desktop GUI architecture: JavaFX Scene Graph, responsive layout panes, the delegation event handling model, reactive property binding, and desktop MVC design patterns.",
+  "moduleOrder": 7,
+  "pdf": "OOPunits/oop_unit7.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

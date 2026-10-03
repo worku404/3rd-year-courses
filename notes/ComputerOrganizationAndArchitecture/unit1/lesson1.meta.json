@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Computer Architecture vs. Computer Organization & The Hardware/Software Abstraction Hierarchy",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "1.1 Architectural Attributes vs. Organizational Implementations",
+    "1.2 The Multi-Tier Computing Abstraction Hierarchy (HLL to Transistors)",
+    "1.3 The Instruction Set Architecture (ISA) as the Hardware-Software Boundary",
+    "1.4 Architectural Compatibility, Silicon Realization & The Role of the Computer Architect"
+  ],
+  "media": {
+    "coa-arch-vs-org-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_architecture_vs_organization_layers.jpg",
+      "alt": "Computer Architecture vs Organization and The System Abstraction Hierarchy"
+    },
+    "coa-intro-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=4TzMyXmzL8M",
+      "note": "NPTEL / IIT: Lecture -1 Introduction to Computer Architecture"
+    }
+  }
+}

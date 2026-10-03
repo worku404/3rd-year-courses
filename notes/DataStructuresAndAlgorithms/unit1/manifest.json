@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 1,
+  "moduleTitle": "Unit 1 \u2014 Introduction to Data Structures, ADTs & Asymptotic Analysis",
+  "moduleDescription": "Mathematical and architectural foundations of Data Structures and Algorithms: Abstract Data Types (ADTs), physical memory topologies, Random Access Machine (RAM) computational modeling, frequency count analysis, and formal asymptotic notations (Big-O, Omega, Theta).",
+  "moduleOrder": 1,
+  "pdf": "DSAunits/dsa_unit1.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

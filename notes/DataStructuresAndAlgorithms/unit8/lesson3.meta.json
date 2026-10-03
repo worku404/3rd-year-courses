@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Linear Sorting & the Omega(n log n) Lower Bound Proof",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit8/lesson3",
+  "curriculumSections": [
+    "8.11 The Decision Tree Lower Bound: Why No Comparison Sort Beats Omega(n log n)",
+    "8.12 Counting Sort: Integer Key Frequency Tables & Stable Prefix-Sum Output",
+    "8.13 Radix Sort LSD: Multi-Pass Counting Sort on Individual Digit Positions",
+    "8.14 Radix Sort MSD: In-Place Recursive Partitioning & String Sorting",
+    "8.15 Bucket Sort & Distribution Sorts: Uniform Distribution Assumption & O(n) Average"
+  ],
+  "media": {
+    "linear-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_linear_sorting_counting_radix_lower_bound.jpg",
+      "alt": "Omega(n log n) Lower Bound Decision Tree, Counting Sort and Radix Sort LSD Mechanics"
+    },
+    "radix-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=nu4gDuFabIM",
+      "note": "GeeksforGeeks: Radix Sort"
+    }
+  }
+}

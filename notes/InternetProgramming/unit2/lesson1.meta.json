@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Document Architecture, Text Semantics & Tabular Data Structures",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "2.1 The Anatomy of an HTML5 Document & DOM Tree",
+    "2.2 Text Semantics, Heading Hierarchy & Block vs Inline Model",
+    "2.3 List Architectures (Unordered, Ordered, and Description Lists)",
+    "2.4 Complex Tabular Data Engineering & Screen Reader Scopes"
+  ],
+  "media": {
+    "dom-tabular-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/html_dom_tree_document_tabular_architecture.jpg",
+      "alt": "HTML5 DOM Tree Parsing and Accessible Tabular Data Architecture"
+    },
+    "html-crash-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+      "note": "Traversy Media: HTML Crash Course For Absolute Beginners"
+    }
+  }
+}

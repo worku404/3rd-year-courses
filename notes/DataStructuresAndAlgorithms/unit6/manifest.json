@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "data-structures-and-algorithms",
+  "unit": 6,
+  "moduleTitle": "Unit 6 \u2014 Tree Topologies, Binary Traversals & Binary Search Trees",
+  "moduleDescription": "Comprehensive study of hierarchical non-linear data structures: Tree formal terminology, First-Child/Next-Sibling N-ary representations, binary tree structural classifications, Depth-First (DFS) and Breadth-First (BFS) traversals, recursive vs iterative stack-driven visiting engines, Binary Search Tree (BST) mutations (search, insert, deletion by merging vs copying), and self-balancing AVL rotation fundamentals.",
+  "moduleOrder": 6,
+  "pdf": "DSAunits/dsa_unit6.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

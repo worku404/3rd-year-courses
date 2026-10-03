@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Type Casting Mechanics, Pattern Matching & Covariance Pitfalls",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit5/lesson2",
+  "curriculumSections": [
+    "5.5 Reference Widening (Upcasting) & Narrowing (Downcasting)",
+    "5.6 JVM Bytecode Verification (checkcast) & ClassCastException",
+    "5.7 Type Introspection: From instanceof to Pattern Matching (Java 16+)",
+    "5.8 Array Covariance vs Generic Invariance & ArrayStoreException",
+    "5.9 Architectural Anti-Patterns: Code Smells of Explicit Downcasting"
+  ],
+  "media": {
+    "casting-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/type_casting_pattern_matching_covariance.jpg",
+      "alt": "Type Casting Mechanics, Pattern Matching, and Array Covariance"
+    },
+    "casting-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Q8cTydJSawQ",
+      "note": "Telusko: Upcasting and Downcasting in Java"
+    }
+  }
+}

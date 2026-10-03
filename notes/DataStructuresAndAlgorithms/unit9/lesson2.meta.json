@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Hash Tables: Functions, Collisions & Open Hashing",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit9/lesson2",
+  "curriculumSections": [
+    "9.6 Hash Table Architecture: Buckets, Slots, Load Factor",
+    "9.7 Hash Functions: Division H(k)=k mod m, Mid-Square H(k)=mid(k^2), Folding",
+    "9.8 Separate Chaining (Open Hashing): Linked List per Bucket & O(1+a) Analysis",
+    "9.9 Open Addressing (Closed Hashing): Linear, Quadratic, Double Hashing",
+    "9.10 Load Factor & Rehashing: When and How to Resize the Table"
+  ],
+  "media": {
+    "hash-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_hash_table_functions_collision_chaining.jpg",
+      "alt": "Hash Function Design, Collision Examples, Separate Chaining and Open Addressing Diagrams"
+    },
+    "mit-hash-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=0M_kIqhwbFo",
+      "note": "MIT OpenCourseWare: Lecture 8: Hashing with Chaining"
+    }
+  }
+}

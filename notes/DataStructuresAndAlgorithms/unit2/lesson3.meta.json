@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Adaptive Insertion Sort, Inversion Counts & Quadratic Benchmark Comparison",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit2/lesson3",
+  "curriculumSections": [
+    "2.11 Insertion Sort Architecture: Incremental Prefix Construction & Element Shifting",
+    "2.12 Inversion Count Theory: Mathematical Proof that Running Time Is Proportional to Disorder",
+    "2.13 Adaptive Execution: Why Insertion Sort is the Production Default for Small Arrays (n <= 32)",
+    "2.14 The Triad Comparison: Bubble vs. Selection vs. Insertion Sort Trade-Off Matrix",
+    "2.15 Production Hybridization: How Timsort and Dual-Pivot Quicksort Leverage Insertion Sort"
+  ],
+  "media": {
+    "insertion-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_insertion_sort_inversion_timsort.jpg",
+      "alt": "Adaptive Insertion Sort, Inversion Dynamics and Production Hybridization"
+    },
+    "insertion-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=8mJ-OhcfpYg",
+      "note": "Bro Code: Learn Insertion Sort in 7 minutes"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Algorithm Analysis & Asymptotic Complexity Mechanics",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit1/lesson2",
+  "curriculumSections": [
+    "1.6 Empirical vs. Theoretical Algorithm Evaluation: Benchmarking Flaws and the RAM Model",
+    "1.7 Frequency Count Method: Step Counting of Simple Statements, Conditionals, and Loops",
+    "1.8 Mathematical Summations: Arithmetic Progressions and Nested Loop Analysis",
+    "1.9 Logarithmic Growth Patterns: Step Doubling, Halving, and Geometric Progressions",
+    "1.10 Asymptotic Growth Rate Taxonomy: From Constant O(1) to Factorial O(n!)"
+  ],
+  "media": {
+    "analysis-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_algorithm_analysis_frequency_count.jpg",
+      "alt": "Algorithm Analysis and Frequency Count Summations"
+    },
+    "analysis-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=1U3Uwct45IY",
+      "note": "Abdul Bari: Frequency Count Method"
+    }
+  }
+}

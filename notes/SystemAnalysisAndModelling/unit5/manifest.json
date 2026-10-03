@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 5,
+  "moduleTitle": "Unit 5 \u2014 Object-Oriented Analysis, UML 2.5 Metamodel & Use Case Engineering",
+  "moduleDescription": "In-depth investigation of Object-Oriented Analysis (OOA) paradigms (Encapsulation, Information Hiding, Abstraction, Generalization/Specialization, Inheritance, and Dynamic Polymorphism), the UML 2.5 Metamodel architecture (Things, Relationships, and Multi-View Diagrams), formal Use Case modeling (Primary vs. Secondary Actors, Cockburn Scenario Structures, System Boundary Scoping), advanced UML stereotypes (<<include>> mandatory subroutine reuse vs. <<extend>> optional conditional insertion), and systematic requirements discovery techniques (User Goal Technique, Comprehensive Event Decomposition across External/Temporal/State events, and the CRUD Lifecycle Cross-Verification Matrix).",
+  "moduleOrder": 5,
+  "pdf": "SAMunits/sam_unit5.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

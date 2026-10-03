@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 2,
+  "moduleTitle": "Unit 2 \u2014 Java Basics, JVM Architecture & Memory Model",
+  "moduleDescription": "Detailed exploration of JVM runtime architecture, bytecode execution, primitive vs reference types, control flow compilation, String immutability, and array memory layout.",
+  "moduleOrder": 2,
+  "pdf": "OOPunits/oop_unit2.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

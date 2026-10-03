@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Double-Ended Queues (Deque) & Monotonic Queue Architectures",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit5/lesson2",
+  "curriculumSections": [
+    "5.6 Double-Ended Queue (Deque) ADT: Bidirectional Boundary Contracts",
+    "5.7 ArrayDeque Internals: Bitwise Masking & Power-of-Two Ring Topologies",
+    "5.8 The Monotonic Queue Algorithmic Pattern: Sliding Window Extrema in O(n)",
+    "5.9 Multiprocessor Work-Stealing Schedulers: ForkJoinPool & Tokio Architecture",
+    "5.10 Production Implementation: Bounded Dual-Ended Sliding Window Engine"
+  ],
+  "media": {
+    "deque-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_deque_double_ended_sliding_window.jpg",
+      "alt": "Double-Ended Queue (Deque) Operations, ArrayDeque Masking and Monotonic Sliding Window"
+    },
+    "deque-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=pqg0SOPRlJ4",
+      "note": "Jenny's Lectures CS IT: 4.7 DEQUE in Data Structure | Introduction to DEQue - Double Ended Queue"
+    }
+  }
+}

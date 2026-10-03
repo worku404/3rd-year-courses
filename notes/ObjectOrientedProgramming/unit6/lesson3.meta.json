@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Enterprise Exception Architecture: Custom Domain Exceptions, Chaining & Anti-Patterns",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "oop/unit6/lesson3",
+  "curriculumSections": [
+    "6.11 Domain-Driven Design: Crafting Custom Checked vs. Unchecked Business Exceptions",
+    "6.12 Root Cause Diagnostics & Exception Chaining (initCause and Cause Constructors)",
+    "6.13 Clean Architecture: Exception Translation Across Layered Boundaries",
+    "6.14 Fatal Anti-Patterns: Swallowing Exceptions, Generic Catching, and Flow-Control via Exceptions",
+    "6.15 Architectural Resilience: The Circuit Breaker & Fallback Strategy in Distributed Systems"
+  ],
+  "media": {
+    "custom-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/custom_domain_exceptions_chaining_resilience.jpg",
+      "alt": "Enterprise Custom Exceptions, Root Cause Chaining, and Resilient Architecture"
+    },
+    "custom-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=V_jVp6WdW0Y",
+      "note": "Telusko: Custom Exception in Java"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 The Von Neumann Stored-Program Model, Top-Level Structure & Functional Operations",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "1.5 The Von Neumann Stored-Program Concept & Historical Foundations",
+    "1.6 The Four Major Structural Components: CPU, Memory, I/O & System Interconnection",
+    "1.7 The Four Fundamental Computer Functions: Processing, Storage, Movement & Control",
+    "1.8 The Von Neumann Bottleneck: Causes, Latency Disparities & Architectural Remedies"
+  ],
+  "media": {
+    "coa-von-neumann-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_von_neumann_top_level_structure.jpg",
+      "alt": "The Von Neumann Stored-Program Architecture and Top-Level Structure"
+    },
+    "fetch-execute-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Z5JC9Ve1sfI",
+      "note": "Tom Scott: The Fetch-Execute Cycle: What's Your Computer Actually Doing?"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Singly Linked Lists: Node Anatomy, Pointer Invariants & Splice Operations",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit3/lesson1",
+  "curriculumSections": [
+    "3.1 Self-Referential Data Structures: Heap Node Topologies & Reference Pointers",
+    "3.2 Singly Linked List (SLL) Invariants: Head, Tail, and Traversal Semantics",
+    "3.3 Insertion Operations: Prepending (O(1)), Appending with Tail Pointer, and Arbitrary Splicing",
+    "3.4 Deletion Mechanics: Head Removal, Predecessor Tracking & Memory Deallocation",
+    "3.5 Algorithmic Complexity: Array-Based Lists vs. Singly Linked Lists Trade-Off Matrix"
+  ],
+  "media": {
+    "sll-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_singly_linked_list_splice_pointers.jpg",
+      "alt": "Singly Linked List Node Anatomy, Splice Invariants and Pointer Loss Anti-Patterns"
+    },
+    "sll-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=akErwS16DUg",
+      "note": "Abdul Bari: Linked List Introduction & Concepts"
+    }
+  }
+}

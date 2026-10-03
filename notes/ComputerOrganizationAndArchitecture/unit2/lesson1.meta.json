@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Historical Computer Generations, The Princeton IAS Machine & Moore's Law",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "2.1 The Four Generations of Computing (Vacuum Tubes, Transistors, ICs, VLSI)",
+    "2.2 The Princeton IAS Machine Architecture: Word Structure, Datapath & Registers",
+    "2.3 Commercial Milestones: ENIAC, UNIVAC, IBM System/360 & The DEC PDP Minicomputers",
+    "2.4 Moore's Law, Transistor Density Scaling & The Dennard Scaling Collapse"
+  ],
+  "media": {
+    "coa-generations-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_computer_generations_ias_architecture.jpg",
+      "alt": "Historical Computer Generations and Princeton IAS Machine Architecture"
+    },
+    "generations-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=LN0ucKNX0hc",
+      "note": "Crash Course Computer Science #2: Electronic Computing"
+    }
+  }
+}

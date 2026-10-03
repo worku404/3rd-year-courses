@@ -1,0 +1,23 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Modern Layout Engines (Flexbox & CSS Grid) & Responsive Architecture",
+  "file": "lesson3.md",
+  "curriculumSections": [
+    "3.9 CSS Flexbox: 1-Dimensional Flow & Space Distribution Mechanics",
+    "3.10 CSS Grid: 2-Dimensional Coordinate Matrix & Auto-Fit Layouts",
+    "3.11 Layout Engine Decision Matrix (Flexbox vs Grid vs Multi-Column)",
+    "3.12 Responsive Web Design, Media Queries & Fluid Typography"
+  ],
+  "media": {
+    "flex-grid-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/css_flexbox_grid_responsive_architecture.jpg",
+      "alt": "Modern Layout Engines: Flexbox 1D Flow vs CSS Grid 2D Matrix and Responsive Breakpoints"
+    },
+    "flexbox-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=fYq5PXgSsbE",
+      "note": "Web Dev Simplified: Learn Flexbox in 15 Minutes"
+    }
+  }
+}

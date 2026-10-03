@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Hypermedia, Embedded Multimedia & Responsive Image Architectures",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.5 Hyperlink Engineering, Fragment Anchors & Reverse Tabnabbing Defense",
+    "2.6 Embedded Image Formats, Responsive Art Direction & the Picture Element",
+    "2.7 Native HTML5 Audio and Video Buffering Pipelines",
+    "2.8 Timed Text Tracks & WebVTT Subtitle Specifications"
+  ],
+  "media": {
+    "multimedia-picture-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/responsive_multimedia_picture_pipeline.jpg",
+      "alt": "Responsive Picture Element Pipeline, Next-Gen Codecs and HTML5 Video Architecture"
+    },
+    "picture-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Rik3gHT24AM",
+      "note": "Kevin Powell: The HTML picture element explained and Responsive Images"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Graph Traversal Engines: Depth-First (DFS), BFS & Topological Sorting",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit7/lesson2",
+  "curriculumSections": [
+    "7.6 Traversal State Machines: Visited Invariants & Preventing Infinite Cycle Loops",
+    "7.7 Depth-First Search (DFS): Stack Mechanics, Backtracking & Austin-to-Washington Trace",
+    "7.8 Breadth-First Search (BFS): Queue Wavefronts & Unweighted Shortest Hop Proofs",
+    "7.9 Cycle Detection: Parent-Tracking (Undirected) vs. 3-Coloring Back-Edges (Digraphs)",
+    "7.10 Topological Sorting: Kahn's In-Degree Queue vs. Tarjan's DFS Reverse Post-Order"
+  ],
+  "media": {
+    "traversal-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_graph_traversal_dfs_bfs_topological_sort.jpg",
+      "alt": "Graph Traversals: DFS Stack vs BFS Queue, Austin to Washington Pathfinding and Kahn's Algorithm"
+    },
+    "traversal-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=pcKY4hjDrxk",
+      "note": "Abdul Bari: 5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search"
+    }
+  }
+}

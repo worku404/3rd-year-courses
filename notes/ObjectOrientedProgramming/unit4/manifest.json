@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 4,
+  "moduleTitle": "Unit 4 \u2014 Inheritance, Polymorphism & Abstract Classes / Interfaces",
+  "moduleDescription": "Comprehensive examination of inheritance mechanics, dynamic method dispatch via vtables, Liskov Substitution Principle, abstract classes vs modern interfaces, and the final modifier.",
+  "moduleOrder": 4,
+  "pdf": "OOPunits/oop_unit4.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

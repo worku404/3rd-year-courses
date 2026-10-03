@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Dynamic Polymorphism, Method Overriding & Virtual Method Tables (vtables)",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit4/lesson2",
+  "curriculumSections": [
+    "4.6 Dynamic Method Dispatch & Runtime Polymorphism",
+    "4.7 The 5 Overriding Invariants & Covariant Return Types",
+    "4.8 The Liskov Substitution Principle (LSP) in System Architecture",
+    "4.9 Low-Level JVM Mechanics: Virtual Method Tables (vtables)",
+    "4.10 The final Modifier & JIT Method Inlining"
+  ],
+  "media": {
+    "vtable-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/vtable_polymorphism_dynamic_dispatch.jpg",
+      "alt": "Dynamic Method Dispatch: Virtual Method Tables and Liskov Substitution"
+    },
+    "polymorphism-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=6U-0aUBiO5A",
+      "note": "Telusko: Polymorphism in Java"
+    }
+  }
+}

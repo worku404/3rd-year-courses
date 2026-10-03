@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Hypertext Transfer Protocol (HTTP) Deep-Dive & Wire Format",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 The HTTP Request/Response Exchange Lifecycle",
+    "2.2 HTTP Message Wire Format (Headers, CRLF, Body)",
+    "2.3 HTTP Request Methods, Safety & Idempotency",
+    "2.4 HTTP Status Codes Taxonomy & Production Debugging"
+  ],
+  "media": {
+    "http-packet-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/http_request_response_packet_anatomy.jpg",
+      "alt": "HTTP Message Specification, Wire Format Anatomy and Status Code Classes"
+    },
+    "http-crash-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=iYM2zFP3Zn0",
+      "note": "Traversy Media: HTTP Crash Course & Wire Protocol Exploration"
+    }
+  }
+}

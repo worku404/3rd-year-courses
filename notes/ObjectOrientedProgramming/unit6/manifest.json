@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 6,
+  "moduleTitle": "Unit 6 \u2014 Exception Handling & Fault-Tolerant Systems",
+  "moduleDescription": "In-depth investigation of Java exception handling runtime, the Throwable hierarchy, call stack unwinding, try-with-resources, custom domain exceptions, and fault-tolerant architecture.",
+  "moduleOrder": 6,
+  "pdf": "OOPunits/oop_unit6.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

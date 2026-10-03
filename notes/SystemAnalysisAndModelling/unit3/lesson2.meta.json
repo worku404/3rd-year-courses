@@ -1,0 +1,24 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Functional, Non-Functional (ISO 25010) & Domain Requirements: Rigorous Quantification & Prioritization",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 Functional Requirements (FR): Mathematical Input-Process-Output Formulations and Behavioral State Transforms",
+    "2.2 Non-Functional Requirements (NFR): The ISO/IEC 25010 Quality Model (Performance, Reliability, Security, Maintainability)",
+    "2.3 Quantifying the 'Ilities': Formulating SLAs, SLOs, Error Budgets, p99 Latency, and Five-Nines Availability",
+    "2.4 Domain Requirements & Axioms: Regulatory HIPAA/GDPR, Financial ACID, and Safety-Critical Real-Time Deadlines",
+    "2.5 Multi-Criteria Prioritization: MoSCoW, Kano Model, and Analytic Hierarchy Process (AHP) Engine in C++"
+  ],
+  "media": {
+    "sam-iso25010-matrix-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_functional_vs_nonfunctional_iso25010_matrix.jpg",
+      "alt": "Functional vs Non-Functional Requirements Taxonomy, ISO 25010 Quality Pillars & Prioritization"
+    },
+    "system-design-nfr-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=m8Icp_Cid5o",
+      "note": "freeCodeCamp: System Design & Non-Functional Quality Attributes Architecture"
+    }
+  }
+}

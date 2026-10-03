@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Tree Traversal Topologies: Depth-First (DFS) & Breadth-First (BFS)",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "dsa/unit6/lesson2",
+  "curriculumSections": [
+    "6.6 Depth-First Traversal Formalisms: Pre-Order, In-Order & Post-Order Invariants",
+    "6.7 Algebraic Expression Trees: Slide Trace Analysis Across N-L-R, L-N-R & L-R-N",
+    "6.8 Breadth-First Search (BFS): Level-Order Queue Mechanics & Width vs. Depth Memory",
+    "6.9 Iterative Traversal Engines: Eliminating JVM -Xss Limits via Explicit Heap Stacks",
+    "6.10 Morris In-Order Traversal: O(1) Auxiliary Space Threaded Tree Mechanics"
+  ],
+  "media": {
+    "traversal-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_tree_traversals_dfs_bfs_callstacks.jpg",
+      "alt": "Binary Tree Traversals: DFS Pre/In/Post Order, BFS Level Order and Iterative Stack Engines"
+    },
+    "traversal-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=-b2lciNd2L4",
+      "note": "Jenny's Lectures CS IT: 5.5 Binary Tree Traversals (Inorder, Preorder and Postorder) | Data structures and algorithms"
+    }
+  }
+}

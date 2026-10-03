@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "internet-programming",
+  "unit": 4,
+  "moduleTitle": "Unit 4 \u2014 Client-Side Scripting with JavaScript, DOM & Event-Driven Architecture",
+  "moduleDescription": "V8 runtime architecture, execution contexts, variable environments, scope chains, closures, the Browser Object Model (BOM), DOM traversal and manipulation mechanics, safe DOM mutation, W3C event propagation pipeline (capturing vs bubbling), and the single-threaded asynchronous Event Loop concurrency model.",
+  "moduleOrder": 4,
+  "pdf": "IPunits/ip_unit4.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

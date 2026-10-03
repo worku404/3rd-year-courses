@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "computer-organization-and-architecture",
+  "unit": 1,
+  "moduleTitle": "Unit 1 \u2014 Introduction to Computer Organization, Architecture & Top-Level Structure",
+  "moduleDescription": "The fundamental dichotomy between computer architecture and organization, the multi-tier hardware/software abstraction hierarchy, the Von Neumann stored-program model, top-level components (CPU, Memory, I/O, System Bus), the four basic computer functions, and CPU internal microarchitecture (ALU, Control Unit, and Register Transfer Language).",
+  "moduleOrder": 1,
+  "pdf": "COAunits/coa_unit1.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

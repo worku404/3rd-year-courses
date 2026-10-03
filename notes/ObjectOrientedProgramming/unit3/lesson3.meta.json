@@ -1,0 +1,24 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Static Members, Method Overloading & Modular Package Architecture",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "oop/unit3/lesson3",
+  "curriculumSections": [
+    "3.9 Static Architecture: invokestatic vs invokevirtual & Metaspace State",
+    "3.10 Method Overloading (Static Polymorphism) & Resolution Priority",
+    "3.11 Pitfalls of Static State in Multi-Threaded Cloud Backends",
+    "3.12 Modular Package Architecture, Namespaces & import static Mechanics"
+  ],
+  "media": {
+    "dispatch-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/static_vs_instance_method_dispatch.jpg",
+      "alt": "Method Architecture: Static vs Virtual Calls and Overload Resolution"
+    },
+    "static-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=7HYaQOyvw7Q",
+      "note": "Telusko: Static Variable and Static Keyword in Java"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 The CSS Cascade, Specificity Engine & The Box Model Architecture",
+  "file": "lesson1.md",
+  "curriculumSections": [
+    "3.1 The Cascade Algorithm, Inheritance & Specificity Vectors",
+    "3.2 Advanced Selectors, Combinators & Pseudo-Classes",
+    "3.3 The CSS Box Model & Sizing Mechanics (content-box vs border-box)",
+    "3.4 Margin Collapsing Mechanics & CSS Custom Properties (Variables)"
+  ],
+  "media": {
+    "box-model-diagram": {
+      "type": "image",
+      "url": "/media/notes/internetprogramming/css_box_model_cascade_specificity_engine.jpg",
+      "alt": "CSS Box Model Geometry and Specificity Cascade Hierarchy"
+    },
+    "box-model-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=rIO5326FgPE",
+      "note": "Web Dev Simplified: Learn CSS Box Model In 8 Minutes"
+    }
+  }
+}

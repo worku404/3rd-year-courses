@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Multi-Dimensional Feasibility Engineering: The TELOS & Economic ROI Frameworks",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.5 The Architecture of Feasibility Analysis: Problem Formulation, Alternative Solutions & Decision Gates",
+    "2.6 The TELOS Framework: Technical, Economic, Legal, Operational, Schedule & Political Dimensions",
+    "2.7 Quantitative Cost-Benefit Analysis (CBA): Tangible vs. Intangible, NPV, IRR & Payback Period",
+    "2.8 The Formal Feasibility Study Report (FSR) Structure & Executive Milestone Review"
+  ],
+  "media": {
+    "sam-feasibility-telos-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_feasibility_telos_economic_npv.jpg",
+      "alt": "TELOS Feasibility Hexagon, Cash Flow Discounting Table, and Net Present Value Curves"
+    },
+    "systems-theory-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=26QPDBe-NB8",
+      "note": "Crash Course Computer Science #18: Operating Systems / Systems Theory"
+    }
+  }
+}

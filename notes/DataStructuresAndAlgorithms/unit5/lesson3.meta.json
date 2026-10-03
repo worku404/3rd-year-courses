@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Priority Queues, Binary Heaps & Enterprise Scheduling Engines",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "dsa/unit5/lesson3",
+  "curriculumSections": [
+    "5.11 Priority Queue ADT: Keyed Priority Ordering & Queue Merging/Demerging",
+    "5.12 Complete Binary Heap Architecture: Implicit Array Index Mathematics",
+    "5.13 Heap Restructuring Dynamics: Sift-Up, Sift-Down & O(n) Floyd Heapify",
+    "5.14 Operating System Task Scheduling: Multilevel Feedback Queues & Anti-Starvation Aging",
+    "5.15 Production Systems: Indexed Priority Queue with O(log n) Dynamic Key Updates"
+  ],
+  "media": {
+    "priority-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_priority_queue_binary_heap_scheduling.jpg",
+      "alt": "Priority Queue Binary Heap Topology, Array Mapping and OS Schedulers"
+    },
+    "priority-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=HqPJF2L5h9U",
+      "note": "Abdul Bari: 2.6.3 Heap - Heap Sort - Heapify - Priority Queues"
+    }
+  }
+}

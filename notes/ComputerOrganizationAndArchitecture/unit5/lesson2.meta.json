@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Hardware Error Detection & Correction: Hamming SEC-DED Architecture",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "5.5 Memory Fault Classes: Hard Physical Defects vs. Soft Radiation-Induced Bit Flips",
+    "5.6 Mathematical Foundation of Error Correction: Code Distance, Parity & Check Bit Scaling (2^K - 1 >= M + K)",
+    "5.7 Hamming Code Architecture: Check Bit Placement at Powers of Two, Parity Matrices & Syndrome Generation",
+    "5.8 Single Error Correction, Double Error Detection (SEC-DED) via Global Parity Augmentation"
+  ],
+  "media": {
+    "coa-hamming-diagram": {
+      "type": "image",
+      "url": "/media/notes/computerorganizationandarchitecture/coa_hamming_code_error_correction_syndrome.jpg",
+      "alt": "Hamming Code Architecture, Syndrome Word Generation, and SEC-DED Parity Matrix"
+    },
+    "hamming-codes-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=X8jsijhllIA",
+      "note": "3Blue1Brown: But what are Hamming codes? The origin of error correction"
+    }
+  }
+}

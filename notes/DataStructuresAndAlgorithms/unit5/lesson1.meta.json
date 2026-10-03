@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Queue Abstract Data Type & Storage Architectures (Linear vs Circular Array vs Linked List)",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit5/lesson1",
+  "curriculumSections": [
+    "5.1 Queue Abstract Data Type (ADT): FIFO Axiomatic Invariants & Boundary Contracts",
+    "5.2 The Linear Array Drifting Boundary Defect & False Full Failures",
+    "5.3 Circular Ring Buffer Mechanics: Modulo Arithmetic & Full/Empty Disambiguation",
+    "5.4 Dual-Pointer Linked List Queue: Head Dequeue vs. Tail Enqueue Invariants",
+    "5.5 Production Architectures: High-Performance Resizing Circular Queue in Java"
+  ],
+  "media": {
+    "queue-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_queue_linear_vs_circular_ring_buffer.jpg",
+      "alt": "Queue ADT Topologies: Linear Array Drifting Anomaly vs. Modulo Circular Ring Buffer"
+    },
+    "queue-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=zp6pBNbUB2U",
+      "note": "Jenny's Lectures CS IT: 4.1 Queue in Data Structure | Introduction to Queue | Data Structures Tutorials"
+    }
+  }
+}

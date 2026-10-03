@@ -1,0 +1,14 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "system-analysis-and-modelling",
+  "unit": 1,
+  "moduleTitle": "Unit 1 \u2014 Introduction to System Analysis, Modelling Paradigms & SDLC Methodologies",
+  "moduleDescription": "Foundational concepts of general systems theory, system analysis vs. system design, system constraints and invariant characteristics, the cybernetic feedback loop, multi-dimensional system classification, Computer-Based Information Systems (CBIS) taxonomy, system modelling abstraction principles (schematic, static structural, dynamic behavioral), and a comprehensive comparative analysis of Software Development Life Cycle (SDLC) models (Waterfall, V-Model, Boehm's Spiral, Iterative Prototyping, and Agile Scrum).",
+  "moduleOrder": 1,
+  "pdf": "SAMunits/sam_unit1.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2",
+    "lesson3"
+  ]
+}

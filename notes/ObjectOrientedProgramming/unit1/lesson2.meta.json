@@ -1,0 +1,25 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 The Core Pillars of Object-Oriented Engineering",
+  "file": "lesson2.md",
+  "sourceKeyPrefix": "oop/unit1/lesson2",
+  "curriculumSections": [
+    "1.3 Overview of OO Principles",
+    "1.3.1 Abstraction and Information Hiding",
+    "1.3.2 Encapsulation and Invariant Enforcement",
+    "1.3.3 Inheritance and Taxonomic Generalization",
+    "1.3.4 Polymorphism and Dynamic Method Dispatch"
+  ],
+  "media": {
+    "four-pillars-architecture-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/four_pillars_oop_architecture.jpg",
+      "alt": "The Four Pillars of Object-Oriented Software Architecture: Abstraction, Encapsulation, Inheritance, Polymorphism"
+    },
+    "four-pillars-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=Le74BCHNgtE",
+      "note": "Abdul Bari: Java Course - Object-Oriented Principles & Core Concepts"
+    }
+  }
+}

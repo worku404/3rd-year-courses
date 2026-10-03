@@ -1,0 +1,24 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 Object Diagrams: Temporal Memory Snapshots & Multiplicity Verification",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "2.1 The Object Diagram Mandate: Temporal Memory Snapshots at Specific Instants (Time t0)",
+    "2.2 Underlined Instance Notation (instanceName : ClassName), Literal Attribute Bindings, and Links",
+    "2.3 Multiplicity Invariant Proofs: Verifying and Disproving Class Diagram Cardinalities via Concrete Instance Graphs",
+    "2.4 Mapping Class Schemas to Runtime Object Graph Topologies: Diagnosing Dangling and Unlinked Instances",
+    "2.5 Class-to-Object Instance Conformance Validator & Memory Graph Verifier in C++"
+  ],
+  "media": {
+    "sam-object-diagrams-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_object_diagrams_instance_snapshots.jpg",
+      "alt": "Object Diagrams as Temporal Memory Snapshots and Class Multiplicity Invariant Proofs"
+    },
+    "object-diagram-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=O753uuutqH8",
+      "note": "Crash Course Computer Science #16: Software Engineering & Object Modeling"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# Exclude raw download directories
+* files/
+Computer organization and architecture files/
+Data structure and algorithms files/
+Internet programming files/
+Object oriented programming files/
+System analysis and modelling files/
+
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local scratch and logs
+scratch/
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 The Delegation Event Model, Reactive Handlers & Enterprise MVC Architecture",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "oop/unit7/lesson3",
+  "curriculumSections": [
+    "7.11 The Delegation Event Handling Model: Source, Event, and Listener",
+    "7.12 The JavaFX Event Hierarchy: Event, InputEvent, MouseEvent, and ActionEvent",
+    "7.13 Handler Implementation Strategies: Separate Classes, Inner Classes, Anonymous Classes & Lambdas",
+    "7.14 Model-View-Controller (MVC) & Property Binding in JavaFX Desktop Applications",
+    "7.15 Thread Safety: UI Updates via Platform.runLater() to Prevent Thread Starvation"
+  ],
+  "media": {
+    "event-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/javafx_delegation_event_model_mvc.jpg",
+      "alt": "JavaFX Delegation Event Model and Reactive Desktop MVC Architecture"
+    },
+    "event-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=N3LZM4WFHBY",
+      "note": "Bro Code: JavaFX Event Handling"
+    }
+  }
+}

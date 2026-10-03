@@ -1,0 +1,13 @@
+{
+  "subject": "Software Engineering",
+  "courseSlug": "object-oriented-programming-java",
+  "unit": 1,
+  "moduleTitle": "Unit 1 \u2014 Introduction to OOP & Programming Paradigms",
+  "moduleDescription": "Evolution of programming paradigms, procedural limitations, object-oriented concepts, and high-level software modeling.",
+  "moduleOrder": 1,
+  "pdf": "OOPunits/oop_unit1.pdf",
+  "lessons": [
+    "lesson1",
+    "lesson2"
+  ]
+}

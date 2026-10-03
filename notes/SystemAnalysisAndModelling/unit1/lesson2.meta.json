@@ -1,0 +1,23 @@
+{
+  "lesson": 2,
+  "title": "Lesson 2 \u2014 System Modelling Paradigms, Abstraction Layers & Multi-View Representations",
+  "file": "lesson2.md",
+  "curriculumSections": [
+    "1.5 The Philosophy and Purpose of System Modelling: Cognitive Manageability, Specification & Traceability",
+    "1.6 Schematic & Conceptual Models: Context Diagrams, Business Process Models & Rich Pictures",
+    "1.7 Static Structural Models vs. Dynamic Behavioral Models: The Duality of Architecture",
+    "1.8 The Software Engineering Abstraction Pipeline: Problem Domain to Verification Traceability"
+  ],
+  "media": {
+    "sam-modelling-paradigms-diagram": {
+      "type": "image",
+      "url": "/media/notes/systemanalysisandmodelling/sam_system_modelling_paradigms_abstraction.jpg",
+      "alt": "System Modelling Paradigms, Conceptual vs Static vs Dynamic Perspectives, and Traceability Pipeline"
+    },
+    "systems-operating-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=26QPDBe-NB8",
+      "note": "Crash Course Computer Science #18: Operating Systems / Systems Theory"
+    }
+  }
+}

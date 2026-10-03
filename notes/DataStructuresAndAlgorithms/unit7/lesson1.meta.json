@@ -1,0 +1,25 @@
+{
+  "lesson": 1,
+  "title": "Lesson 1 \u2014 Graph Topologies, Invariant Axioms & Storage Architectures",
+  "file": "lesson1.md",
+  "sourceKeyPrefix": "dsa/unit7/lesson1",
+  "curriculumSections": [
+    "7.1 Mathematical Graph Foundations: Formal G=(V,E) Axioms, Digraphs & Degree Metrics",
+    "7.2 Structural Invariants: Euler's Handshaking Lemma & Complete Graph Edge Densities",
+    "7.3 Storage Architecture 1: Adjacency Matrix Mechanics, Row Strides & O(V^2) Bloat",
+    "7.4 Storage Architecture 2: Adjacency List Dynamics & Sparse Graph Memory Optimization",
+    "7.5 Architectural Trade-Off Analysis & Production Cache-Conscious Representations"
+  ],
+  "media": {
+    "graph-visual": {
+      "type": "image",
+      "url": "/media/notes/datastructuresandalgorithms/dsa_graph_topologies_storage_architectures.jpg",
+      "alt": "Graph Topologies, Handshaking Lemma, Adjacency Matrix and Adjacency List Architectures"
+    },
+    "graph-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=PgH9OsaPp7Y",
+      "note": "MLHandsOn: Graph representation: Adjacency matrix and Adjacency List"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "lesson": 3,
+  "title": "Lesson 3 \u2014 Abstract Classes vs Interfaces & Modern Contract Architecture",
+  "file": "lesson3.md",
+  "sourceKeyPrefix": "oop/unit4/lesson3",
+  "curriculumSections": [
+    "4.11 Abstract Classes & The Template Method Design Pattern",
+    "4.12 Modern Interfaces: default, static & private Methods",
+    "4.13 Interface Default Method Diamond Conflicts & The 3 Resolution Rules",
+    "4.14 Architectural Decision Matrix: Abstract Classes vs Interfaces",
+    "4.15 The Skeletal Implementation Pattern in Framework Design"
+  ],
+  "media": {
+    "contract-visual": {
+      "type": "image",
+      "url": "/media/notes/objectorientedprogramming/abstract_class_vs_interface_architecture.jpg",
+      "alt": "Contract Architecture: Abstract Classes vs Modern Interfaces"
+    },
+    "interface-video": {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=VJh2u7NLLDg",
+      "note": "Telusko: Abstract Keyword and Interfaces in Java"
+    }
+  }
+}
